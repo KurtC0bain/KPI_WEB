@@ -1,0 +1,46 @@
+*{
+    font-size: 18px;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    
+}
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    text-decoration: underline;
+    color:red;
+    font-size: 22px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+#we {
+    display: block;
+    width: 200px;
+    margin: auto;
+}
+
+.authors {
+    text-align: center;
+    font-style: italic;
+}
+.strong {
+    font-weight: 1000;
+    font-size:large;
+}
+
+.description {
+    display: block;
+    position: relative;
+    width: 1000px;
+    margin: auto;
+}
+body {
+    background-color: rgb(202, 187, 187);
+}
