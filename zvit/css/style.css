@@ -75,5 +75,17 @@ figcaption{
 }
 .main{
     background-color:violet;
-    height: 500px;
+    height: 800px;
+}
+.main .vertical{
+    width: 200px;
+}
+.main .vertical .vertical_area{
+    margin-top: 30px;
+    background-color:yellow;
+    height: 30px;
+    margin-bottom: 50px;
+}
+.list{
+    list-style-type: none;
 }
