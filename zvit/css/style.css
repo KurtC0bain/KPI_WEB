@@ -56,7 +56,6 @@ figcaption{
     text-align: center;
     margin-bottom: 30px;
     margin-top: 30px;
-
 }
 .lab_button{
     border: 3px ridge rgb(115, 255, 0);
@@ -75,24 +74,72 @@ figcaption{
 }
 .main{
     position: relative;
-    display: inline-block;
-    background-color:violet;
+    display: block;
     height: 800px;
-    width: 1000px;
+    margin-bottom: 30px;
 }
 .main .vertical{
-    display: inline-block;
-    position: relative;
-    width: 200px;
-    height: 200px;
+    position: absolute;
+    z-index: 1;;
+    left: -20px;
     margin-top: 50px;
+    display: inline-block;
+    width: 200px;
+    height: 800px;
 }
 .main .vertical .vertical_area{
     border-radius:20%;
+    border: 2px dashed black;
     background-color:yellow;
     height: 50px;
     margin-bottom: 50px;
+    padding: 5px;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    vertical-align: middle;
 }
 .list{
     list-style-type: none;
+}
+
+.main .main_area{
+    position: absolute;
+    top:10px;
+    right: 10px;
+    display: inline-block;
+    width: 75%;
+    height: 770px;
+    background-color:#66FCF1;
+    border: 5px dotted white;
+    text-align: center;
+    align-items:center;
+}
+.bottom{
+    position: relative;
+    background-color:#127bb86b;
+    height: 100px;
+}
+.bottom .bottom_img{
+    width: 80px;
+    float: left;
+    margin: 1em 1em 0;
+}
+
+.footer_text{
+    position: absolute;
+    color: white;
+    font-family: monospace;
+    left: 120px;
+    top:9px;
+}
+.links{
+    text-decoration: none;
+    color:violet;
+    border: 4px solid black;
+}
+.links_l{
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
 }
