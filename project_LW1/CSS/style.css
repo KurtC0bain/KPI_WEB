@@ -41,3 +41,70 @@ body {
 .strong {
     font-weight: 1000;
 }
+
+
+table {
+    border: 3px solid black;
+    align-items: center;
+    background-color: rgb(250, 235, 250);
+}
+
+td {
+    border: 1px solid black;
+}
+
+.myTable {
+    display: block;
+    position: relative;
+    padding: 15px;
+    right: 40px;
+    left: 300px;
+}
+.wellcome{
+    display: inline-block;
+    position: absolute;
+    left: 500px;
+    margin: 10px;
+    border: 3px solid black;
+}
+#wellcomepic{
+    width: 310px;
+}
+
+.picnform{
+    display: inline-block;
+    position: relative;
+    width: 1700px;
+    padding: 15px;
+    right: 40px;
+    left: 300px;
+}
+form {
+    top: 10px;
+    display: inline-block;
+    position: relative;
+    border: 3px solid black;
+    padding: 15px;
+    right: 40px;
+    left: 0px;
+    width: 410px;
+    background-color: rgb(250, 231, 246);
+}
+.requests {
+    display: inline-block;
+    position: relative;
+    width: 110px;
+    padding: 15px;
+    right: 40px;
+    left: 0px;
+    bottom: 30px;
+    font-size: 21px;
+}
+.formFields{
+    display: inline-block;
+    position: relative;
+    width: 230px;
+    padding: 15px;
+    right: 40px;
+    left: 0px;
+}
