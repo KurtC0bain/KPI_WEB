@@ -41,6 +41,19 @@ body{
     margin-right: 20px;
     margin-bottom: 7px;
 }
+
+.header .header_img_1{
+    border-radius:15%;
+    display: inline-block;
+    color:rgb(255, 217, 0);
+    width: 200px;
+    height: 240px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 7px;
+}
+
+
 figcaption{
     border: 5px;
     font-size: 20px;
