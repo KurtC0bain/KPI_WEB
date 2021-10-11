@@ -7,7 +7,7 @@ body{
 
 .header .header_title{
     font-family:Arial, Helvetica, sans-serif;
-    color:#66FCF1;
+    color:#20d1c5;
     text-align: center;
     margin: 0 auto; 
     margin-top: 40px;
@@ -25,7 +25,8 @@ body{
     margin-bottom: 60px;
 }
 .header .header_photo{
-    display: block;
+    display: flex;
+    justify-content: space-between;
     align-items: center;
     margin-left: auto;
     margin-right: auto;
@@ -35,37 +36,32 @@ body{
 }
 .header .header_img{
     border-radius:15%;
-    display: inline-block;
     color:rgb(255, 217, 0);
     width: 200px;
-    height: 200px;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 7px;
+    height: 280px;
+    margin: 0 auto;
 }
 
 .header .header_img_1{
     border-radius:15%;
-    display: inline-block;
     color:rgb(255, 217, 0);
     width: 200px;
     height: 240px;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 7px;
+    margin: 0 auto;
+
 }
 
 
 figcaption{
     border: 5px;
     font-size: 20px;
-    position: relative;
     left: 20px;
     font-family: Lucida Console, monospace;
 }
 .header .head_buttons{
-    display: block;
-    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -75,8 +71,8 @@ figcaption{
 .lab_button{
     border: 3px ridge rgb(115, 255, 0);
     color:white;
-    width: 100px;
-    height: 50px;
+    width: 150px;
+    height: 100px;
     margin-bottom: 20px;
     margin-left: 10px;
     margin-right: 10px;
@@ -88,14 +84,13 @@ figcaption{
     cursor: pointer;
 }
 .main{
-    position: relative;
-    display: block;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
     height: 800px;
     margin-bottom: 30px;
 }
 .main .vertical{
-    position: absolute;
-    z-index: 1;;
     left: -20px;
     margin-top: 50px;
     display: inline-block;
@@ -119,10 +114,6 @@ figcaption{
 }
 
 .main .main_area{
-    position: absolute;
-    top:10px;
-    right: 10px;
-    display: inline-block;
     width: 75%;
     height: 770px;
     background-color:#66FCF1;
