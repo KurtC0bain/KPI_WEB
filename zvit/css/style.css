@@ -26,13 +26,14 @@ body{
 }
 .header .header_photo{
     display: flex;
+    background-color:#127bb86b;
     justify-content: space-between;
     align-items: center;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     margin-bottom: 30px;
-
+    padding: 20px;
 }
 .header .header_img{
     border-radius:15%;
@@ -57,6 +58,7 @@ figcaption{
     font-size: 20px;
     left: 20px;
     font-family: Lucida Console, monospace;
+    margin-top: 10px;
 }
 .header .head_buttons{
     display: flex;
@@ -71,8 +73,8 @@ figcaption{
 .lab_button{
     border: 3px ridge rgb(115, 255, 0);
     color:white;
-    width: 150px;
-    height: 100px;
+    width: 130px;
+    height: 80px;
     margin-bottom: 20px;
     margin-left: 10px;
     margin-right: 10px;
@@ -85,15 +87,18 @@ figcaption{
 }
 .main{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between ;
     flex-wrap: wrap;
-    height: 800px;
+    align-items:center;
+    min-height: 800px;
+    min-width: 600px;
     margin-bottom: 30px;
+    padding: 0 70px;
 }
 .main .vertical{
     left: -20px;
     margin-top: 50px;
-    display: inline-block;
+    display: flex;
     width: 200px;
     height: 800px;
 }
@@ -114,12 +119,17 @@ figcaption{
 }
 
 .main .main_area{
-    width: 75%;
-    height: 770px;
+    display: flex;
+    min-width: none;
+    min-height: none;
+    justify-content: space-between;
+
     background-color:#66FCF1;
     border: 5px dotted white;
     text-align: center;
     align-items:center;
+
+    /* margin-right: 300px; */
 }
 .bottom{
     position: relative;
@@ -141,7 +151,7 @@ figcaption{
 }
 .links{
     text-decoration: none;
-    color:violet;
+    color: rgb(52, 224, 81);
     border: 4px solid black;
 }
 .links_l{
