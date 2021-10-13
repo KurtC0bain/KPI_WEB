@@ -20,11 +20,21 @@ h3 {
     
 }
 
+.flex-desc-container {
+    display: flex;
+    flex-direction: column;
+    height: 670px;
+    background-color: rgb(190, 98, 226);
+    
+}
+
+
 #we {
-    display: block;
     width: 145px;
-    margin: auto;
+    height: 150px;
+    margin: 0 auto;
     border: 3px solid black;
+    border-bottom: none;
     padding: 20px;
     background-color: rgb(224, 146, 255);
 }
@@ -42,9 +52,6 @@ h3 {
 }
 
 .description {
-    display: block;
-    position: relative;
-    width: 1000px;
     margin: auto;
     border: 3px solid black;
     padding: 20px;
