@@ -5,6 +5,11 @@ body{
     background-color:#202833;
 }
 
+a{
+    text-decoration: none;
+    color: black;
+}
+
 .header .header_title{
     font-family:Arial, Helvetica, sans-serif;
     color:#20d1c5;
