@@ -9,6 +9,8 @@
     <link rel="stylesheet" href="source/jquery-ui-2.css">
     <link rel="stylesheet" href="source/social.css">
     <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" href="source/jquery.jdigiclock.css">
+    <link rel="stylesheet" href="source/currency.css">
     <title>JQuery Tasks</title>
 </head>
 
@@ -53,7 +55,27 @@
     <h1>Datapicker</h1>
     <p>Date: <input type="text" id="datepicker"></p>
     <br><br><br>
+    <h1>Gallery</h1>
+    <div id="gallery" style="display:none;">
+ 
+        <img alt="Image 1 Title" src="/thumbs/img1.jpg"
+        data-image="/img/img1.jpg"
+        data-description="Image 1 Description"
+        style="display:none">
+       
+        <img alt="Image 2 Title" src="/thumbs/img2.jpg"
+        data-image="/img/img2.jpg"
+        data-description="Image 2 Description"
+        style="display:none">
+       
+        <img alt="Image 3 Title" src="/thumbs/img3.jpg"
+        data-image="/img/img3.jpg"
+        data-description="Image 3 Description"
+        style="display:none">
+       
+      </div>
 
+    
     <h1>Social Media Links</h1>
     <br>
     <div class="social-container">
@@ -65,10 +87,27 @@
 			<a href="#" data-type="pinterest" data-url="http://sonnyt.com/prettySocial" data-description="Custom share buttons for Pinterest, Twitter, Facebook and Google Plus." data-media="http://sonnyt.com/assets/imgs/prettySocial.png" class="prettySocial fa fa-pinterest"></a>
 
 		</div>
+    </div>
+    <h1>Clock</h1>
+    <div id="myclock"></div>
+
+    <h1>Weath&Clock</h1>
+    <div id="digiclock"></div>
+
+    <h1>Currency</h1>
+    <p class="demo">
+        <span class="jic" data-jic-value="1" data-jic-currency="EUR" data-jic-convert-to="rub, usd, chf">1 euro</span>
+    </p>
+    <br><br><br>
+    
 
     <script src="js/jquery-3.6.0.min.js"></script>
     <script src="js/jquery-ui.js"></script>
-    <script src="js/jquery.prettySocial.js"></script>
+    <script src="js/jquery.prettySocial.js"></script> 
+    <script src="js/jquery.thooClock.js"></script>
+    <script src="js/jquery.jdigiclock.js"></script>
+    <script src="js/jquery.inline-currency.js"></script>
     <script src="js/script.js"></script>
+
 </body>
 </html>

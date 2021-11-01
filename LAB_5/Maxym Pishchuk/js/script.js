@@ -37,5 +37,27 @@ $( "#result-polzunok" ).text($( "#polzunok" ).slider("value" ));
 $( function() {
     $( "#datepicker" ).datepicker();
   } );
-  
+
 $('.prettySocial').prettySocial();
+
+$('#myclock').thooClock({
+	onAlarm: function(){},
+	offAlarm: function(){},
+	onEverySecond: function(){},
+  });
+  $('#digiclock').jdigiclock({
+    imagesPath : 'images/', 
+    lang: 'en',
+    am_pm : false, 
+    weatherLocationCode : '751170', 
+    weatherUpdate : 60, 
+    svrOffset: 0   
+});
+
+$(document).ready(function () {
+  $('.jic').inlineCurrency();
+  $('.jic-test').inlineCurrency({
+      "thousandsSplit": " ",
+      "decimalsSplit": ","
+  });
+});
