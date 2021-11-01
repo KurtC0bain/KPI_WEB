@@ -11,10 +11,12 @@
     <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     <link rel="stylesheet" href="source/jquery.jdigiclock.css">
     <link rel="stylesheet" href="source/currency.css">
+    <link rel='stylesheet' href='unitegallery/themes/default/ug-theme-default.css' type='text/css' /> 
+    <link rel='stylesheet' href='unitegallery/css/unite-gallery.css' type='text/css' /> 
     <title>JQuery Tasks</title>
 </head>
 
-<body>
+<div>
     <h1>Accordion</h1>
     <div class="accordion">
         <div class="accordion__item">
@@ -52,30 +54,37 @@
     <b style="font-size: 20px;"><br>Value: <span style="color:green; font-size: 30px;" id="result-polzunok"></span></b>
     <br><br><br>
 
+    
     <h1>Datapicker</h1>
+
     <p>Date: <input type="text" id="datepicker"></p>
+
+
     <br><br><br>
     <h1>Gallery</h1>
+
+
     <div id="gallery" style="display:none;">
  
-        <img alt="Image 1 Title" src="/thumbs/img1.jpg"
-        data-image="/img/img1.jpg"
-        data-description="Image 1 Description"
+        <img alt="Image 1 Title" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Ringk_Copy_-_First_Page_Fragment.jpg"
+        data-type="youtube"
+        data-image="https://upload.wikimedia.org/wikipedia/commons/1/1a/Ringk_Copy_-_First_Page_Fragment.jpg"
+        data-videoid="ho9rZjlsyYY"
+        data-description="Toccata and Fugue in D Minor"
         style="display:none">
        
-        <img alt="Image 2 Title" src="/thumbs/img2.jpg"
-        data-image="/img/img2.jpg"
-        data-description="Image 2 Description"
+        <img alt="Image 2 Title" src="https://uploads1.wikiart.org/00242/images/alexandre-cabanel/fallen-angel-alexandre-cabanel.jpg"
+        data-image="https://uploads1.wikiart.org/00242/images/alexandre-cabanel/fallen-angel-alexandre-cabanel.jpg"
+        data-description="Fallen Angel by Alexandre Cabanel"
         style="display:none">
        
-        <img alt="Image 3 Title" src="/thumbs/img3.jpg"
-        data-image="/img/img3.jpg"
-        data-description="Image 3 Description"
+        <img alt="Image 3 Title" src="https://thomaskinkade.com/wp-content/uploads/2014/09/nyfift.jpg"
+        data-image="https://thomaskinkade.com/wp-content/uploads/2014/09/nyfift.jpg"
+        data-description="5th Avenue by Thomas Kinkade"
         style="display:none">
        
       </div>
 
-    
     <h1>Social Media Links</h1>
     <br>
     <div class="social-container">
@@ -91,15 +100,13 @@
     <h1>Clock</h1>
     <div id="myclock"></div>
 
-    <h1>Weath&Clock</h1>
+    <h1>Weather&Clock</h1>
     <div id="digiclock"></div>
 
     <h1>Currency</h1>
-    <p class="demo">
-        <span class="jic" data-jic-value="1" data-jic-currency="EUR" data-jic-convert-to="rub, usd, chf">1 euro</span>
-    </p>
-    <br><br><br>
-    
+    <br>
+    <a href="//finance.i.ua/" target="_blank"><img src="//f.i.ua/fp1_b15_c0_l0.png" border="0" alt="Курс долара"></a>
+
 
     <script src="js/jquery-3.6.0.min.js"></script>
     <script src="js/jquery-ui.js"></script>
@@ -108,6 +115,10 @@
     <script src="js/jquery.jdigiclock.js"></script>
     <script src="js/jquery.inline-currency.js"></script>
     <script src="js/script.js"></script>
+    <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+    <script type='text/javascript' src='unitegallery/js/unitegallery.min.js'></script>     
+    <script type='text/javascript' src='unitegallery/themes/default/ug-theme-default.js'></script> 
+    <script src="https://code.jquery.com/ui/1.13.0/jquery-ui.js"></script>
 
 </body>
 </html>
