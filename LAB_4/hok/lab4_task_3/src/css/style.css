@@ -1,0 +1,35 @@
+body
+{
+  background-color: grey;
+}
+.slider_wrapper 
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.myslide {
+  display: none;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.myslide img 
+{
+  border: 5px solid black;
+  display: flex;
+  width:900px;
+  height: 600px;
+
+  box-shadow: 0 0 40px rgba(0,0,0,0.5);
+}
+.slider_wrapper a {
+  cursor: pointer;
+}
+
+#next, #prev
+{
+  width: 35px;
+  margin: 10px;
+}

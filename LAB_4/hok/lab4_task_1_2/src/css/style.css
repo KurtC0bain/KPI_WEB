@@ -1,0 +1,23 @@
+html, body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #303030;
+    color: white;
+}
+h2{
+    text-align: center;
+    margin-top: 50px;
+}
+href{
+    text-align: center;
+}
+.red
+{
+    color: rgb(172, 0, 0);
+}
+.green
+{
+    color: green;
+}
+
