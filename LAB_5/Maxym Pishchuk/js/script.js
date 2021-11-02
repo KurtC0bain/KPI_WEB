@@ -61,3 +61,8 @@ $(document).ready(function () {
       "decimalsSplit": ","
   });
 });
+
+
+jQuery(document).ready(function(){ 
+  jQuery("#gallery").unitegallery(); 
+});
