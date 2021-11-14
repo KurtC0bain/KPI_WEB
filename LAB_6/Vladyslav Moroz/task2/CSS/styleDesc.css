@@ -1,0 +1,62 @@
+*{
+    font-size: 18px;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    
+    font-size: 22px;
+}
+
+h3 {
+    font-size: 20px;
+    
+}
+
+.flex-desc-container {
+    display: flex;
+    flex-direction: column;
+    height: 670px;
+    background-color: rgb(190, 98, 226);
+    
+}
+
+
+#we {
+    width: 145px;
+    height: 150px;
+    margin: 0 auto;
+    border: 3px solid black;
+    border-bottom: none;
+    padding: 20px;
+    background-color: rgb(224, 146, 255);
+}
+
+.authors {
+    font-style: italic;
+}
+.strong {
+    font-weight: 1000;
+    font-size:large;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.description {
+    margin: auto;
+    border: 3px solid black;
+    padding: 20px;
+    background-color: rgb(224, 146, 255);
+}
+body {
+    background-color: rgb(158, 59, 197);
+}
