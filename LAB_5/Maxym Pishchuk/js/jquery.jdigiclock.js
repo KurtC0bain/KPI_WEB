@@ -4,7 +4,7 @@
         jdigiclock: function(options) {
 
             var defaults = {
-                imagesPath: '/dashboard/jdigiclock/images/',
+                imagesPath: 'dashboard/jdigiclock/images/',
                 lang: 'fr',
                 am_pm: false,
                 weatherLocationCode: '751170', // Meteofrance city code
