@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PhotoGalery</title>
+    <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+    <script type='text/javascript' src='unitegallery-master/dist/js/unitegallery.min.js'></script> 
+    
+    <link rel='stylesheet' href='unitegallery-master/dist/css/unite-gallery.css' type='text/css' /> 
+    <script type='text/javascript' src='unitegallery-master/dist/themes/default/ug-theme-default.js'></script> 
+    <link rel='stylesheet' href='unitegallery-master/dist/themes/default/ug-theme-default.css' type='text/css' /> 
+    <script type="text/javascript"> 
+			
+        jQuery(document).ready(function(){ 
+            jQuery("#gallery").unitegallery(); 
+        }); 
+    
+    </script>
+</head>
+<body>
+    
+		<div id="gallery" style="display:none;">
+		
+			<img alt="Image 1 Title" src="unitegallery-master/package/images/thumbs/image1.jpeg"
+				data-image="unitegallery-master/package/images/thumbs/image1.jpeg"
+				data-description="Image 1 Description">
+			
+			<img alt="Image 2 Title" src="unitegallery-master/package/images/thumbs/image2.jpg"
+				data-image="unitegallery-master/package/images/thumbs/image2.jpg"
+				data-description="Image 2 Description">
+		
+		</div>
+
+      
+</body>
+</html>

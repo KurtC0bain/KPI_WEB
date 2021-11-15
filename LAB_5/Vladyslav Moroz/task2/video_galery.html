@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Galery</title>
+    <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+    <script type='text/javascript' src='unitegallery-master/dist/js/unitegallery.min.js'></script> 
+    
+    <link rel='stylesheet' href='unitegallery-master/dist/css/unite-gallery.css' type='text/css' /> 
+    <script type='text/javascript' src='unitegallery-master/dist/themes/default/ug-theme-default.js'></script> 
+    <link rel='stylesheet' href='unitegallery-master/dist/themes/default/ug-theme-default.css' type='text/css' /> 
+    <script type="text/javascript"> 
+			
+        jQuery(document).ready(function(){ 
+            jQuery("#gallery").unitegallery(); 
+        }); 
+    
+    </script>
+</head>
+<body>
+    <div id="gallery" style="display:none;">
+		
+        <img alt="Youtube With Images"
+            data-type="youtube"
+            src="thumbs/youtube_thumb.jpg"
+            data-image="images/youtube_image.jpg"		 
+            data-videoid="A3PDXmYoF5U"
+            data-description="GoPro">
+        
+            <img alt="Youtube Without Images"
+            data-type="youtube"
+            data-videoid="A3PDXmYoF5U"
+            data-description="Youtube video description">
+           
+    
+    </div>
+</body>
+</html>
