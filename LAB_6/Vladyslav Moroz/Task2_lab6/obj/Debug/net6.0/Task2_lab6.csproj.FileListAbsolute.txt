@@ -8,7 +8,6 @@ D:\2_course_1_sem\WEB\KPI_WEB\LAB_6\Vladyslav Moroz\Task2_lab6\bin\Debug\net6.0\
 D:\2_course_1_sem\WEB\KPI_WEB\LAB_6\Vladyslav Moroz\Task2_lab6\bin\Debug\net6.0\ref\Task2_lab6.dll
 D:\2_course_1_sem\WEB\KPI_WEB\LAB_6\Vladyslav Moroz\Task2_lab6\bin\Debug\net6.0\Task2_lab6.pdb
 D:\2_course_1_sem\WEB\KPI_WEB\LAB_6\Vladyslav Moroz\Task2_lab6\obj\Debug\net6.0\Task2_lab6.GlobalUsings.g.cs
-D:\2_course_1_sem\WEB\KPI_WEB\LAB_6\Vladyslav Moroz\Task2_lab6\obj\Debug\net6.0\Task2_lab6.csproj.AssemblyReference.cache
 D:\2_course_1_sem\WEB\KPI_WEB\LAB_6\Vladyslav Moroz\Task2_lab6\obj\Debug\net6.0\Task2_lab6.GeneratedMSBuildEditorConfig.editorconfig
 D:\2_course_1_sem\WEB\KPI_WEB\LAB_6\Vladyslav Moroz\Task2_lab6\obj\Debug\net6.0\Task2_lab6.AssemblyInfoInputs.cache
 D:\2_course_1_sem\WEB\KPI_WEB\LAB_6\Vladyslav Moroz\Task2_lab6\obj\Debug\net6.0\Task2_lab6.AssemblyInfo.cs
