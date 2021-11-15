@@ -1,0 +1,7 @@
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_6\Vladyslav Moroz\Task2_lab6\obj\Release\net6.0\PubTmp\Out\Task2_lab6.exe
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_6\Vladyslav Moroz\Task2_lab6\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_6\Vladyslav Moroz\Task2_lab6\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_6\Vladyslav Moroz\Task2_lab6\obj\Release\net6.0\PubTmp\Out\Task2_lab6.dll
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_6\Vladyslav Moroz\Task2_lab6\obj\Release\net6.0\PubTmp\Out\Task2_lab6.deps.json
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_6\Vladyslav Moroz\Task2_lab6\obj\Release\net6.0\PubTmp\Out\Task2_lab6.runtimeconfig.json
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_6\Vladyslav Moroz\Task2_lab6\obj\Release\net6.0\PubTmp\Out\Task2_lab6.pdb
