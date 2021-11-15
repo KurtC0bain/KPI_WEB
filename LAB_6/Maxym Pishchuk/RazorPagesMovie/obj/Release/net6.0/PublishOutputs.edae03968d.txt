@@ -1,0 +1,7 @@
+D:\Visual Studio Projects\RazorPagesMovie\obj\Release\net6.0\PubTmp\Out\RazorPagesMovie.exe
+D:\Visual Studio Projects\RazorPagesMovie\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Visual Studio Projects\RazorPagesMovie\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Visual Studio Projects\RazorPagesMovie\obj\Release\net6.0\PubTmp\Out\RazorPagesMovie.dll
+D:\Visual Studio Projects\RazorPagesMovie\obj\Release\net6.0\PubTmp\Out\RazorPagesMovie.deps.json
+D:\Visual Studio Projects\RazorPagesMovie\obj\Release\net6.0\PubTmp\Out\RazorPagesMovie.runtimeconfig.json
+D:\Visual Studio Projects\RazorPagesMovie\obj\Release\net6.0\PubTmp\Out\RazorPagesMovie.pdb

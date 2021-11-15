@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\RazorPageMovies.com</_PublishTargetUrl>
+    <History>True|2021-11-15T22:18:03.1601956Z;True|2021-11-16T00:14:38.6789801+02:00;True|2021-11-15T23:36:37.9153441+02:00;</History>
+  </PropertyGroup>
+</Project>
