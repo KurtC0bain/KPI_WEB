@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio Projects\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "D:\\2_course_1_sem\\WEB\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio Projects\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "D:\\2_course_1_sem\\WEB\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio Projects\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "D:\\2_course_1_sem\\WEB\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "D:\\Visual Studio Projects\\RazorPagesMovie\\RazorPagesMovie.csproj",
-        "packagesPath": "C:\\Users\\Maks\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio Projects\\RazorPagesMovie\\obj\\",
+        "projectPath": "D:\\2_course_1_sem\\WEB\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\2_course_1_sem\\WEB\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Maks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
