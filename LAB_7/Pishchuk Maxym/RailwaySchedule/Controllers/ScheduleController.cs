@@ -1,24 +1,29 @@
-﻿using RailwaySchedule.Models;
-using RailwaySchedule.Services;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
+using ScheduleBL.Services;
+using ScheduleDL.Models;
 
 namespace RailwaySchedule.Controllers
 {
     public class ScheduleController : Controller
     {
-        private ScheduleService _scheduleService = new ScheduleService();
-        public ActionResult Index()
+        private IScheduleService _scheduleService;
+        public ScheduleController(IScheduleService scheduleService)
         {
-            return View(_scheduleService.GetAllSchedules());
+            _scheduleService = scheduleService;
+        }
+        public async Task<ActionResult> Index()
+        {
+            return View(await _scheduleService.GetAllAsync());
         }
 
-        public ActionResult Details(int id)
+        public async Task<ActionResult> Details(int id)
         {
-            return View(_scheduleService.GetScheduleById(id));
+            return View(await _scheduleService.GetByIdAsync(id));
         }
 
         public ActionResult Create()
@@ -27,11 +32,12 @@ namespace RailwaySchedule.Controllers
         }
 
         [HttpPost]
-        public ActionResult Create(Schedule schedule)
+        [ValidateAntiForgeryToken]
+        public async  Task<ActionResult> Create(Schedule schedule)
         {
             try
             {
-                _scheduleService.AddSchedule(schedule);
+                await _scheduleService.CreateAsync(schedule);
                 return RedirectToAction("Index");
             }
             catch
@@ -40,18 +46,19 @@ namespace RailwaySchedule.Controllers
             }
         }
 
-        public ActionResult Edit(int id)
+        public async Task<ActionResult> Edit(int id)
         {
-            return View(_scheduleService.GetScheduleById(id));
+            return View(await _scheduleService.GetByIdAsync(id));
         }
 
         [HttpPost]
-        public ActionResult Edit(int id, Schedule schedule)
+        [ValidateAntiForgeryToken]
+        public async Task<ActionResult> Edit(int id, Schedule schedule)
         {
             try
             {
                 schedule.Id = id;
-                _scheduleService.Update(schedule);
+                await _scheduleService.UpdateAsync(schedule);
                 return RedirectToAction("Index");
             }
             catch
@@ -60,17 +67,18 @@ namespace RailwaySchedule.Controllers
             }
         }
 
-        public ActionResult Delete(int id)
+        public async Task<ActionResult> Delete(int id)
         {
-            return View(_scheduleService.GetScheduleById(id));
+            return View(await _scheduleService.GetByIdAsync(id));
         }
 
         [HttpPost]
-        public ActionResult Delete(int id, Schedule schedule)
+        [ValidateAntiForgeryToken]
+        public async Task<ActionResult> Delete(int id, Schedule schedule)
         {
             try
             {
-                _scheduleService.Delete(id);
+                await _scheduleService.DeleteAsync(id);
                 return RedirectToAction("Index");
             }
             catch

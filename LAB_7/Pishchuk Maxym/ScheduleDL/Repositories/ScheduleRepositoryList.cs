@@ -1,16 +1,17 @@
-﻿using System;
+﻿using ScheduleDL.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Web;
-using RailwaySchedule.Models;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace RailwaySchedule.Services
+namespace ScheduleDL.Repositories
 {
-    public class ScheduleService
+    public class ScheduleRepositoryList
     {
         private static int _id;
         private static List<Schedule> _schedules;
-        static ScheduleService()
+        static ScheduleRepositoryList()
         {
             _id = 1;
             _schedules = new List<Schedule>
@@ -65,10 +66,10 @@ namespace RailwaySchedule.Services
         public void Update(Schedule schedule)
         {
             var element = GetScheduleById(schedule.Id);
-            if(element != null)
+            if (element != null)
             {
                 var index = _schedules.IndexOf(element);
-                _schedules[index]= schedule;
+                _schedules[index] = schedule;
             }
         }
         public bool Delete(int id)
@@ -77,5 +78,6 @@ namespace RailwaySchedule.Services
             _id--;
             return _schedules.Remove(element);
         }
+
     }
 }

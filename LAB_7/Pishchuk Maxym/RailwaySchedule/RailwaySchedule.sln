@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RailwaySchedule", "RailwaySchedule.csproj", "{CB6EA969-0333-43EE-8F16-6EED67861F68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleBL", "..\ScheduleBL\ScheduleBL.csproj", "{DC36BCFF-C631-480F-A8F0-77ABCD3A7391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleDL", "..\ScheduleDL\ScheduleDL.csproj", "{C71B86A2-2926-4090-8E84-198E76C22D6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{CB6EA969-0333-43EE-8F16-6EED67861F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB6EA969-0333-43EE-8F16-6EED67861F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB6EA969-0333-43EE-8F16-6EED67861F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC36BCFF-C631-480F-A8F0-77ABCD3A7391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC36BCFF-C631-480F-A8F0-77ABCD3A7391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC36BCFF-C631-480F-A8F0-77ABCD3A7391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC36BCFF-C631-480F-A8F0-77ABCD3A7391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C71B86A2-2926-4090-8E84-198E76C22D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71B86A2-2926-4090-8E84-198E76C22D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71B86A2-2926-4090-8E84-198E76C22D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71B86A2-2926-4090-8E84-198E76C22D6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

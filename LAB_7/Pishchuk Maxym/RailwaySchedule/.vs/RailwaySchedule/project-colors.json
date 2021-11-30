@@ -10,7 +10,27 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "c7a6ca75-bbde-4ea0-b815-44785a7856a1": {
+      "ProjectGuid": "c7a6ca75-bbde-4ea0-b815-44785a7856a1",
+      "DisplayName": "ScheduleBL",
+      "ColorIndex": 1
+    },
+    "639c5c14-04a1-4421-9fda-a6d5ec2539d6": {
+      "ProjectGuid": "639c5c14-04a1-4421-9fda-a6d5ec2539d6",
+      "DisplayName": "ScheduleBL",
+      "ColorIndex": 2
+    },
+    "dc36bcff-c631-480f-a8f0-77abcd3a7391": {
+      "ProjectGuid": "dc36bcff-c631-480f-a8f0-77abcd3a7391",
+      "DisplayName": "ScheduleBL",
+      "ColorIndex": 3
+    },
+    "c71b86a2-2926-4090-8e84-198e76c22d6f": {
+      "ProjectGuid": "c71b86a2-2926-4090-8e84-198e76c22d6f",
+      "DisplayName": "ScheduleDL",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 5
 }

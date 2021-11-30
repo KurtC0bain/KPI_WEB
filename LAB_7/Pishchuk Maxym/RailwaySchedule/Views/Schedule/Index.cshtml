@@ -1,4 +1,4 @@
-﻿@model IEnumerable<RailwaySchedule.Models.Schedule>
+﻿@model IEnumerable<ScheduleDL.Models.Schedule>
 
 @{
     ViewBag.Title = "Index";
@@ -22,7 +22,9 @@
         <th>
             @Html.DisplayNameFor(model => model.DepartureTime)
         </th>
-        <th></th>
+        <th>
+            <p>Operations</p>
+        </th>
     </tr>
 
     @foreach (var item in Model)
@@ -50,7 +52,7 @@
 
 </table>
 
-<button style="border-radius: 10%">
-    <p>@Html.ActionLink("Create New", "Create")</p>
-</button>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
 

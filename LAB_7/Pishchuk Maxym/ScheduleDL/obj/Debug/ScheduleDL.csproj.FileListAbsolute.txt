@@ -1,0 +1,13 @@
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleDL\obj\Debug\ScheduleDL.csproj.CoreCompileInputs.cache
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleDL\bin\Debug\ScheduleDL.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleDL\bin\Debug\ScheduleDL.pdb
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleDL\obj\Debug\ScheduleDL.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleDL\obj\Debug\ScheduleDL.pdb
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleDL\bin\Debug\ScheduleDL.dll.config
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleDL\bin\Debug\EntityFramework.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleDL\bin\Debug\EntityFramework.SqlServer.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleDL\bin\Debug\EntityFramework.xml
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleDL\bin\Debug\EntityFramework.SqlServer.xml
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleDL\obj\Debug\ScheduleDL.csproj.CopyComplete
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleDL\obj\Debug\ScheduleDL.Migrations.Initial.resources
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleDL\obj\Debug\ScheduleDL.csproj.GenerateResource.cache
