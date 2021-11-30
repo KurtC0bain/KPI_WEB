@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio Projects\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectUniqueName": "D:\\KPI DOCS\\WEB\\git-pjoect_ART-GALLERY\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "D:\\Visual Studio Projects\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectPath": "D:\\KPI DOCS\\WEB\\git-pjoect_ART-GALLERY\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "packagesPath": "C:\\Users\\Maks\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio Projects\\RazorPagesMovie\\obj\\",
+      "outputPath": "D:\\KPI DOCS\\WEB\\git-pjoect_ART-GALLERY\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maks\\AppData\\Roaming\\NuGet\\NuGet.Config",
