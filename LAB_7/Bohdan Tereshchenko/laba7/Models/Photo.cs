@@ -7,7 +7,7 @@ namespace laba7.Models
 {
     public class Photo
     {
-        public int Id { get; set; } 
+        public int Id { get; set; } //for identity
         public string Name { get; set; }
         public string Resolution { get; set; }
         public string Time { get; set; }

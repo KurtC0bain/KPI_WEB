@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac1f92c5-e703-4f33-baaa-3bcb089a0412": {
+      "ProjectGuid": "ac1f92c5-e703-4f33-baaa-3bcb089a0412",
+      "DisplayName": "lab7_mvc_audiolibrary",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
