@@ -81,7 +81,7 @@ namespace AudioLib_lab7.Controllers
         // GET: Audio/Delete/5
         public async Task<ActionResult> Delete(int id)
         {
-            return View(await _audioService.DeleteAsync(id));
+            return View(await _audioService.GetByIdAsync(id));
         }
 
         // POST: Audio/Delete/5

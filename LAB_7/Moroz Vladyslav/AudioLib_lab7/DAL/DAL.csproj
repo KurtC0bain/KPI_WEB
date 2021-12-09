@@ -51,13 +51,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Migrations\202112091921231_Initial.cs" />
-    <Compile Include="Migrations\202112091921231_Initial.designer.cs">
-      <DependentUpon>202112091921231_Initial.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202112092002579_UpdateAudioKey.cs" />
-    <Compile Include="Migrations\202112092002579_UpdateAudioKey.designer.cs">
-      <DependentUpon>202112092002579_UpdateAudioKey.cs</DependentUpon>
+    <Compile Include="Migrations\202112092226515_Initial.cs" />
+    <Compile Include="Migrations\202112092226515_Initial.designer.cs">
+      <DependentUpon>202112092226515_Initial.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Audio.cs" />
@@ -79,11 +75,8 @@
     <Content Include="Scripts\nugetexample.js" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202112091921231_Initial.resx">
-      <DependentUpon>202112091921231_Initial.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202112092002579_UpdateAudioKey.resx">
-      <DependentUpon>202112092002579_UpdateAudioKey.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202112092226515_Initial.resx">
+      <DependentUpon>202112092226515_Initial.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
