@@ -1,0 +1,15 @@
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\bin\Debug\DAL.dll.config
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\bin\Debug\DAL.dll
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\bin\Debug\DAL.pdb
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\bin\Debug\EntityFramework.dll
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\bin\Debug\EntityFramework.xml
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\obj\Debug\DAL.dll
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\obj\Debug\DAL.pdb
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\obj\Debug\DAL.Migrations.Initial.resources
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\obj\Debug\DAL.Migrations.UpdateAudioKey.resources
