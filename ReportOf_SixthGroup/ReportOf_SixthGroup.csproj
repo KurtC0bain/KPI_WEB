@@ -122,6 +122,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\Lab1Controller.cs" />
+    <Compile Include="Controllers\Lab2Controller.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -174,6 +175,14 @@
     <Content Include="Views\Lab1\Form.cshtml" />
     <Content Include="Views\Lab1\Image.cshtml" />
     <Content Include="Views\Lab1\End.cshtml" />
+    <Content Include="Views\Lab2\Index.cshtml" />
+    <Content Include="Views\Lab2\List.cshtml" />
+    <Content Include="Views\Lab2\Identitifivator.cshtml" />
+    <Content Include="Views\Lab2\Tabs.cshtml" />
+    <Content Include="Views\Lab2\Flowing.cshtml" />
+    <Content Include="Views\Lab2\Selectors.cshtml" />
+    <Content Include="Views\Lab2\OtherSelectors.cshtml" />
+    <Content Include="Views\Lab2\Grouping.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
