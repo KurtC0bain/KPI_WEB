@@ -1,37 +1,23 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "D:\\KPI DOCS\\WEB\\git-pjoect_ART-GALLERY\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "D:\\KPI DOCS\\WEB\\project\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "D:\\KPI DOCS\\WEB\\git-pjoect_ART-GALLERY\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "D:\\KPI DOCS\\WEB\\project\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KPI DOCS\\WEB\\git-pjoect_ART-GALLERY\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "D:\\KPI DOCS\\WEB\\project\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "D:\\KPI DOCS\\WEB\\git-pjoect_ART-GALLERY\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj",
-        "packagesPath": "C:\\Users\\Maks\\.nuget\\packages\\",
-        "outputPath": "D:\\KPI DOCS\\WEB\\git-pjoect_ART-GALLERY\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\obj\\",
-=======
-    "D:\\2_course_1_sem\\WEB\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
-  },
-  "projects": {
-    "D:\\2_course_1_sem\\WEB\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\2_course_1_sem\\WEB\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj",
-        "projectName": "RazorPagesMovie",
-        "projectPath": "D:\\2_course_1_sem\\WEB\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\2_course_1_sem\\WEB\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\obj\\",
->>>>>>> 96878b36990c27659f2135db3fad26b6dd1d2697
+        "projectPath": "D:\\KPI DOCS\\WEB\\project\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "packagesPath": "C:\\Users\\esusm\\.nuget\\packages\\",
+        "outputPath": "D:\\KPI DOCS\\WEB\\project\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\esusm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -75,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

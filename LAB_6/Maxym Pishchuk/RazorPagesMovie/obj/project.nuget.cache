@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "8BkdLxJfV+7Iw+EF3FU/EDLG+iZWxBnRbbGcLgrBA3Y0jlVSU7oQNVin6qwbu+cCkVeePO5n3/sDbanMxLpbvA==",
+  "dgSpecHash": "BBG7co6oGcN070WGORGgPQ1OXc9HnVnDIfqcwP2E/8rotqxQ4xgZAAil0/1vFmH0QZh/Q9Ar4g8V5Wn29tS23Q==",
   "success": true,
-  "projectFilePath": "D:\\KPI DOCS\\WEB\\git-pjoect_ART-GALLERY\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj",
-=======
-  "dgSpecHash": "HLfGhAHHBPyFIquOgxx12H6y0QZzJXj/aDF7GKrGbaY2GaH/+GmgmZqzHgk/cdT8uSjzOMIwX0ap29bRNNaHxw==",
-  "success": true,
-  "projectFilePath": "D:\\2_course_1_sem\\WEB\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj",
->>>>>>> 96878b36990c27659f2135db3fad26b6dd1d2697
+  "projectFilePath": "D:\\KPI DOCS\\WEB\\project\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\RazorPagesMovie.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\KPI DOCS\\WEB\\project\\KPI_WEB\\LAB_6\\Maxym Pishchuk\\RazorPagesMovie\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

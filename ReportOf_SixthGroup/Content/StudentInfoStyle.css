@@ -1,0 +1,71 @@
+﻿@font-face {
+    font-family: 'NameTitle';
+    src: url('../fonts/MontserratAlternates-Regular.ttf') format('truetype');
+}
+
+
+.title {
+    margin: 0 auto;
+    font-family: 'NameTitle';
+    margin-bottom: 30px;
+}
+
+main{
+    display:inherit;
+    text-align:center;
+}
+
+.header_photo {
+    display: flex;
+    width:100%;
+    background-color: #127bb86b;
+    justify-content: space-between;
+    align-items: center;
+
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 20px;
+    padding-bottom:50px;
+}
+
+.header_img {
+    border-radius: 15%;
+    color: rgb(255, 217, 0);
+    width: 200px;
+    height: 280px;
+    margin: 0 auto;
+}
+
+.header_img_1 {
+    border-radius: 15%;
+    color: rgb(255, 217, 0);
+    width: 200px;
+    height: 240px;
+    margin: 0 auto;
+}
+
+
+figcaption {
+    border: 5px;
+    font-size: 20px;
+    left: 20px;
+    font-family: Lucida Console, monospace;
+    margin-top: 10px;
+}
+
+.links {
+    color: black;
+    font-family: 'NameTitle';
+    font-weight:500;
+}
+
+.head_buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}

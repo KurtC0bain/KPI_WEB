@@ -1,0 +1,12 @@
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleBL\bin\Release\ScheduleBL.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleBL\bin\Release\ScheduleBL.pdb
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleBL\bin\Release\ScheduleDL.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleBL\bin\Release\EntityFramework.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleBL\bin\Release\ScheduleDL.pdb
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleBL\bin\Release\ScheduleDL.dll.config
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleBL\bin\Release\EntityFramework.xml
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleBL\obj\Release\ScheduleBL.csproj.AssemblyReference.cache
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleBL\obj\Release\ScheduleBL.csproj.CoreCompileInputs.cache
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleBL\obj\Release\ScheduleBL.csproj.CopyComplete
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleBL\obj\Release\ScheduleBL.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Pishchuk Maxym\ScheduleBL\obj\Release\ScheduleBL.pdb
