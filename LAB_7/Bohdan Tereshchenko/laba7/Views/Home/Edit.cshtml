@@ -1,0 +1,43 @@
+﻿@model laba7.Models.Photo
+
+@{
+    ViewBag.Title = "Добавлення фотографії";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Добавлення нової фотографії</h2>
+
+@using (Html.BeginForm())
+{
+    <fieldset>
+        <legend>Фотографія</legend>
+        @Html.HiddenFor(model => model.Id);
+
+        <p>
+            Назва фотографії <br />
+            @Html.EditorFor(model => model.Name)
+        </p>
+
+        <p>
+            Якість <br />
+            @Html.EditorFor(model => model.Resolution)
+        </p>
+
+        <p>
+            Час створення  <br />
+            @Html.EditorFor(model => model.Time)
+        </p>
+        <p>
+            Команда <br />
+            @Html.DropDownListFor(model => model.AlbumId, ViewBag.Albums as SelectList)
+        </p>
+
+        <p>
+            <input type="submit" value="Добавити фотографію" />
+        </p>
+    </fieldset>
+}
+<div>
+    @Html.ActionLink("До списку фотографій", "Index")
+</div>
+

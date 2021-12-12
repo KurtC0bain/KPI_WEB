@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "95b15bd5-fc8f-446c-a1aa-fb8a76ca2961": {
+      "ProjectGuid": "95b15bd5-fc8f-446c-a1aa-fb8a76ca2961",
+      "DisplayName": "AudioLib_lab7",
+      "ColorIndex": 0
+    },
+    "786b7c39-f8f6-4891-80e6-20f147c706f4": {
+      "ProjectGuid": "786b7c39-f8f6-4891-80e6-20f147c706f4",
+      "DisplayName": "BLL",
+      "ColorIndex": 1
+    },
+    "c41005e4-125e-493e-837e-1fcc73b4bbec": {
+      "ProjectGuid": "c41005e4-125e-493e-837e-1fcc73b4bbec",
+      "DisplayName": "BLL",
+      "ColorIndex": 2
+    },
+    "2dc5301d-b26c-43d3-aa5d-78bcb11171f7": {
+      "ProjectGuid": "2dc5301d-b26c-43d3-aa5d-78bcb11171f7",
+      "DisplayName": "DAL",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
