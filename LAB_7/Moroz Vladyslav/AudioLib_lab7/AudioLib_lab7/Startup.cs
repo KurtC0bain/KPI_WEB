@@ -14,7 +14,8 @@ namespace AudioLib_lab7
             app.UseCookieAuthentication(new CookieAuthenticationOptions()
             {
                 AuthenticationType = DefaultAuthenticationTypes.ApplicationCookie,
-                LoginPath = new PathString("/Users/Login")
+                LoginPath = new PathString("/User/Login"),
+                LogoutPath = new PathString("/Users/SignOut")
             });
         }
     }

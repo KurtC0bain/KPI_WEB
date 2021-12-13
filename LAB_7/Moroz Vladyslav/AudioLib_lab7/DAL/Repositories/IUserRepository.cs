@@ -12,5 +12,6 @@ namespace DAL.Repositories
         Task<IEnumerable<User>> GetAllUsersAsync();
         Task<User> GetUserByUserId(int userId);
         Task<User> CreateUserAsync(User user);
+        Task CreateUserRolesAsync();
     }
 }

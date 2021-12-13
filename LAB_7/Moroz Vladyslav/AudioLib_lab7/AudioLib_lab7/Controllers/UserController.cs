@@ -97,13 +97,27 @@ namespace AudioLib_lab7.Controllers
                 return View();
             }
         }
-        [HttpGet]
+        
         public ActionResult Login()
         {
+            if (!User.Identity.IsAuthenticated)
+            {
+                return View();
+            }
+            return Redirect("Index");
+        }
+        
+        [HttpPost]
+        public ActionResult Login(LoginInfo loginInfo)
+        {
+            if (!ModelState.IsValid)
+            {
+                return Redirect("Login");
+            }
             var userStore = new UserStore<IdentityUser>();
             var manager = new UserManager<IdentityUser>(userStore);
             var authenticationManager = HttpContext.GetOwinContext().Authentication;
-            var user = manager.Find("TestUserName", "TestPassword");
+            var user = manager.Find(loginInfo.Username, loginInfo.Password);
 
             var userIdentity = manager.CreateIdentity(user, DefaultAuthenticationTypes.ApplicationCookie);
 

@@ -31,6 +31,7 @@ namespace AudioLib_lab7.Controllers
         }
 
         // GET: Audio/Create
+        [Authorize(Roles = "Admin")]
         public ActionResult Create()
         {
             return View();
