@@ -123,6 +123,13 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\Lab1Controller.cs" />
     <Compile Include="Controllers\Lab2Controller.cs" />
+    <Compile Include="Controllers\Lab3Controller.cs" />
+    <Compile Include="Controllers\Lab4Controller.cs" />
+    <Compile Include="Controllers\Lab5Controller.cs" />
+    <Compile Include="Controllers\Lab6Controller.cs" />
+    <Compile Include="Controllers\Lab7Controller.cs" />
+    <Compile Include="Controllers\Lab8Controller.cs" />
+    <Compile Include="Controllers\Lab9Controller.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -183,6 +190,51 @@
     <Content Include="Views\Lab2\Selectors.cshtml" />
     <Content Include="Views\Lab2\OtherSelectors.cshtml" />
     <Content Include="Views\Lab2\Grouping.cshtml" />
+    <Content Include="Views\Lab3\Index.cshtml" />
+    <Content Include="Views\Lab3\Theme.cshtml" />
+    <Content Include="Views\Lab3\MaketLook.cshtml" />
+    <Content Include="Views\Lab3\MaketTable.cshtml" />
+    <Content Include="Views\Lab3\MaketFlex.cshtml" />
+    <Content Include="Views\Lab3\TaskHtml.cshtml" />
+    <Content Include="Views\Lab3\TaskCss.cshtml" />
+    <Content Include="Views\Lab3\End.cshtml" />
+    <Content Include="Views\Lab4\Index.cshtml" />
+    <Content Include="Views\Lab5\Index.cshtml" />
+    <Content Include="Views\Lab4\Theme.cshtml" />
+    <Content Include="Views\Lab4\Array.cshtml" />
+    <Content Include="Views\Lab4\Sixth.cshtml" />
+    <Content Include="Views\Lab4\End.cshtml" />
+    <Content Include="Views\Lab5\Theme.cshtml" />
+    <Content Include="Views\Lab5\Dynamic.cshtml" />
+    <Content Include="Views\Lab5\Gallery.cshtml" />
+    <Content Include="Views\Lab5\Socials.cshtml" />
+    <Content Include="Views\Lab5\Infomers.cshtml" />
+    <Content Include="Views\Lab5\End.cshtml" />
+    <Content Include="Views\Lab6\Index.cshtml" />
+    <Content Include="Views\Lab6\Theme.cshtml" />
+    <Content Include="Views\Lab6\Server.cshtml" />
+    <Content Include="Views\Lab6\Show.cshtml" />
+    <Content Include="Views\Lab6\Form.cshtml" />
+    <Content Include="Views\Lab6\End.cshtml" />
+    <Content Include="Views\Lab7\Index.cshtml" />
+    <Content Include="Views\Lab7\Theme.cshtml" />
+    <Content Include="Views\Lab7\Objects.cshtml" />
+    <Content Include="Views\Lab7\InfoModel.cshtml" />
+    <Content Include="Views\Lab7\DatoModel.cshtml" />
+    <Content Include="Views\Lab7\Realization.cshtml" />
+    <Content Include="Views\Lab7\DB.cshtml" />
+    <Content Include="Views\Lab7\End.cshtml" />
+    <Content Include="Views\Lab8\Index.cshtml" />
+    <Content Include="Views\Lab9\Index.cshtml" />
+    <Content Include="Views\Lab8\DatoModel.cshtml" />
+    <Content Include="Views\Lab8\DB.cshtml" />
+    <Content Include="Views\Lab8\End.cshtml" />
+    <Content Include="Views\Lab8\InfoModel.cshtml" />
+    <Content Include="Views\Lab8\Objects.cshtml" />
+    <Content Include="Views\Lab8\Realization.cshtml" />
+    <Content Include="Views\Lab8\Theme.cshtml" />
+    <Content Include="Views\Lab8\Authorization.cshtml" />
+    <Content Include="Views\Lab8\Cookies.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

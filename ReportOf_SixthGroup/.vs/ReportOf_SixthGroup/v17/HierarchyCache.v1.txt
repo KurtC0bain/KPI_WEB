@@ -1,0 +1,995 @@
+﻿++Solution 'ReportOf_SixthGroup' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:ReportOf_SixthGroup.sln
+++ReportOf_SixthGroup
+i:{00000000-0000-0000-0000-000000000000}:ReportOf_SixthGroup
+++Properties
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\properties\
+++References
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++App_Data
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\app_data\
+++App_Start
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\app_start\
+++BundleConfig.cs
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\app_start\routeconfig.cs
+++bin
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\
+++roslyn
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\
+++Antlr3.Runtime.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\antlr3.runtime.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\antlr.3.5.0.2\lib\antlr3.runtime.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\antlr3.runtime.dll
+++Antlr3.Runtime.pdb
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\antlr3.runtime.pdb
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\antlr.3.5.0.2\lib\antlr3.runtime.pdb
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\antlr3.runtime.pdb
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\microsoft.codedom.providers.dotnetcompilerplatform.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\lib\net45\microsoft.codedom.providers.dotnetcompilerplatform.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\microsoft.codedom.providers.dotnetcompilerplatform.dll
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\microsoft.codedom.providers.dotnetcompilerplatform.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\lib\net45\microsoft.codedom.providers.dotnetcompilerplatform.xml
+++Microsoft.Web.Infrastructure.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\microsoft.web.infrastructure.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.web.infrastructure.1.0.0.0\lib\net40\microsoft.web.infrastructure.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\microsoft.web.infrastructure.dll
+++Newtonsoft.Json.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\newtonsoft.json.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\net20\newtonsoft.json.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\net35\newtonsoft.json.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\net40\newtonsoft.json.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\net45\newtonsoft.json.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\netstandard1.0\newtonsoft.json.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\netstandard1.3\newtonsoft.json.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\netstandard2.0\newtonsoft.json.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\portable-net40+sl5+win8+wp8+wpa81\newtonsoft.json.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\portable-net45+win8+wp8+wpa81\newtonsoft.json.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\newtonsoft.json.dll
+++Newtonsoft.Json.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\newtonsoft.json.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\net20\newtonsoft.json.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\net35\newtonsoft.json.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\net40\newtonsoft.json.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\net45\newtonsoft.json.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\netstandard1.0\newtonsoft.json.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\netstandard1.3\newtonsoft.json.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\netstandard2.0\newtonsoft.json.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\portable-net40+sl5+win8+wp8+wpa81\newtonsoft.json.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\portable-net45+win8+wp8+wpa81\newtonsoft.json.xml
+++ReportOf_SixthGroup.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\reportof_sixthgroup.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\debug\reportof_sixthgroup.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\reportof_sixthgroup.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\reportof_sixthgroup.dll
+++ReportOf_SixthGroup.dll.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\reportof_sixthgroup.dll.config
+++ReportOf_SixthGroup.pdb
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\reportof_sixthgroup.pdb
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\debug\reportof_sixthgroup.pdb
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\reportof_sixthgroup.pdb
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\reportof_sixthgroup.pdb
+++System.Web.Helpers.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\system.web.helpers.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.webpages.3.2.7\lib\net45\system.web.helpers.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\system.web.helpers.dll
+++System.Web.Helpers.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\system.web.helpers.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.webpages.3.2.7\lib\net45\system.web.helpers.xml
+++System.Web.Mvc.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\system.web.mvc.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.mvc.5.2.7\lib\net45\system.web.mvc.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\system.web.mvc.dll
+++System.Web.Mvc.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\system.web.mvc.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.mvc.5.2.7\lib\net45\system.web.mvc.xml
+++System.Web.Optimization.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\system.web.optimization.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.web.optimization.1.1.3\lib\net40\system.web.optimization.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\system.web.optimization.dll
+++System.Web.Optimization.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\system.web.optimization.xml
+++System.Web.Razor.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\system.web.razor.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.razor.3.2.7\lib\net45\system.web.razor.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\system.web.razor.dll
+++System.Web.Razor.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\system.web.razor.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.razor.3.2.7\lib\net45\system.web.razor.xml
+++System.Web.WebPages.Deployment.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\system.web.webpages.deployment.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.webpages.3.2.7\lib\net45\system.web.webpages.deployment.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\system.web.webpages.deployment.dll
+++System.Web.WebPages.Deployment.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\system.web.webpages.deployment.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.webpages.3.2.7\lib\net45\system.web.webpages.deployment.xml
+++System.Web.WebPages.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\system.web.webpages.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.webpages.3.2.7\lib\net45\system.web.webpages.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\system.web.webpages.dll
+++System.Web.WebPages.Razor.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\system.web.webpages.razor.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.webpages.3.2.7\lib\net45\system.web.webpages.razor.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\system.web.webpages.razor.dll
+++System.Web.WebPages.Razor.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\system.web.webpages.razor.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.webpages.3.2.7\lib\net45\system.web.webpages.razor.xml
+++System.Web.WebPages.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\system.web.webpages.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.webpages.3.2.7\lib\net45\system.web.webpages.xml
+++WebGrease.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\webgrease.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\webgrease.1.6.0\lib\webgrease.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\webgrease.dll
+++Content
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.3.4.1\content\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.validation.1.17.0\content\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.mvc.5.2.7\content\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.webpages.3.2.7\content\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.jquery.unobtrusive.validation.3.2.11\content\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\modernizr.2.8.3\content\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\content\content\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\contentfiles\content\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\content\
+++img
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\img\
+++bohdan.jpg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\img\bohdan.jpg
+++form_code.png
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\img\form_code.png
+++form_css.png
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\img\form_css.png
+++img_code.png
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\img\img_code.png
+++img_css.png
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\img\img_css.png
+++max.jpg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\img\max.jpg
+++table_code.png
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\img\table_code.png
+++table_css.png
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\img\table_css.png
+++vlad.jpg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\img\vlad.jpg
+++Lab1
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\lab1\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\lab1\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\content\lab1\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\views\lab1\
+++IndexStyle.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\lab1\indexstyle.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\indexstyle.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\content\indexstyle.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\content\lab1\indexstyle.css
+++bootstrap-theme.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\bootstrap-theme.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\content\content\bootstrap-theme.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\contentfiles\content\bootstrap-theme.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\bootstrap-theme.css.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\content\content\bootstrap-theme.css.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\contentfiles\content\bootstrap-theme.css.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\bootstrap-theme.min.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\content\content\bootstrap-theme.min.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\contentfiles\content\bootstrap-theme.min.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\bootstrap-theme.min.css.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\content\content\bootstrap-theme.min.css.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\contentfiles\content\bootstrap-theme.min.css.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\bootstrap.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\content\content\bootstrap.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\contentfiles\content\bootstrap.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\content\bootstrap.css
+++bootstrap.css.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\bootstrap.css.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\content\content\bootstrap.css.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\contentfiles\content\bootstrap.css.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\content\bootstrap.css.map
+++bootstrap.min.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\bootstrap.min.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\content\content\bootstrap.min.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\contentfiles\content\bootstrap.min.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\bootstrap.min.css.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\content\content\bootstrap.min.css.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\contentfiles\content\bootstrap.min.css.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\content\bootstrap.min.css.map
+++Site.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\site.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\content\site.css
+++StudentInfoStyle.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\content\studentinfostyle.css
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\content\studentinfostyle.css
+++Controllers
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\controllers\
+++HomeController.cs
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\controllers\homecontroller.cs
+++Lab1Controller.cs
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\controllers\lab1controller.cs
+++fonts
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\content\fonts\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\contentfiles\fonts\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\fonts\
+++Montserrat_Alternates
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\
+++MontserratAlternates-Black.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\montserratalternates-black.ttf
+++MontserratAlternates-BlackItalic.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\montserratalternates-blackitalic.ttf
+++MontserratAlternates-Bold.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\montserratalternates-bold.ttf
+++MontserratAlternates-BoldItalic.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\montserratalternates-bolditalic.ttf
+++MontserratAlternates-ExtraBold.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\montserratalternates-extrabold.ttf
+++MontserratAlternates-ExtraBoldItalic.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\montserratalternates-extrabolditalic.ttf
+++MontserratAlternates-ExtraLight.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\montserratalternates-extralight.ttf
+++MontserratAlternates-ExtraLightItalic.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\montserratalternates-extralightitalic.ttf
+++MontserratAlternates-Italic.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\montserratalternates-italic.ttf
+++MontserratAlternates-Light.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\montserratalternates-light.ttf
+++MontserratAlternates-LightItalic.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\montserratalternates-lightitalic.ttf
+++MontserratAlternates-Medium.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\montserratalternates-medium.ttf
+++MontserratAlternates-MediumItalic.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\montserratalternates-mediumitalic.ttf
+++MontserratAlternates-Regular.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\montserratalternates-regular.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserratalternates-regular.ttf
+++MontserratAlternates-SemiBold.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\montserratalternates-semibold.ttf
+++MontserratAlternates-SemiBoldItalic.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\montserratalternates-semibolditalic.ttf
+++MontserratAlternates-Thin.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\montserratalternates-thin.ttf
+++MontserratAlternates-ThinItalic.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\montserratalternates-thinitalic.ttf
+++OFL.txt
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates\ofl.txt
+++glyphicons-halflings-regular.eot
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\glyphicons-halflings-regular.eot
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.eot
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\contentfiles\fonts\glyphicons-halflings-regular.eot
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\glyphicons-halflings-regular.svg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.svg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\contentfiles\fonts\glyphicons-halflings-regular.svg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\glyphicons-halflings-regular.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\contentfiles\fonts\glyphicons-halflings-regular.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\glyphicons-halflings-regular.woff
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.woff
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\contentfiles\fonts\glyphicons-halflings-regular.woff
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\glyphicons-halflings-regular.woff2
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.woff2
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\contentfiles\fonts\glyphicons-halflings-regular.woff2
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\fonts\glyphicons-halflings-regular.woff2
+++Montserrat_Alternates.zip
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\montserrat_alternates.zip
+++SummitBold-Display.ttf
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\fonts\summitbold-display.ttf
+++Models
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\models\
+++obj
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\
+++packages
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\
+++Scripts
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\scripts\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\content\scripts\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\contentfiles\scripts\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.3.4.1\content\scripts\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.validation.1.17.0\content\scripts\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.jquery.unobtrusive.validation.3.2.11\content\scripts\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\modernizr.2.8.3\content\scripts\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\scripts\
+++Views
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\csautoparameterize\original\views\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\csautoparameterize\transformed\views\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\views\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\profiletransformwebconfig\transformed\views\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\transformwebconfig\transformed\views\
+++Home
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\home\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\views\home\
+++Index.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\home\index.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\lab1\index.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\views\home\index.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\views\lab1\index.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\lab2\index.cshtml
+++StudentInfo.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\home\studentinfo.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\views\home\studentinfo.cshtml
+++Description.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\lab1\description.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\views\lab1\description.cshtml
+++End.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\lab1\end.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\views\lab1\end.cshtml
+++Form.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\lab1\form.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\views\lab1\form.cshtml
+++Image.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\lab1\image.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\views\lab1\image.cshtml
+++Struck.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\lab1\struck.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\views\lab1\struck.cshtml
+++Table.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\lab1\table.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\views\lab1\table.cshtml
+++Theme.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\lab1\theme.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\views\lab1\theme.cshtml
+++Shared
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\shared\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\views\shared\
+++_Layout.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\shared\_layout.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\views\shared\_layout.cshtml
+++Error.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\shared\error.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\views\shared\error.cshtml
+++_ViewStart.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\_viewstart.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\views\_viewstart.cshtml
+++Web.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\web.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\web.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\csautoparameterize\original\web.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\csautoparameterize\transformed\web.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\web.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\transformwebconfig\assist\web.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\transformwebconfig\original\web.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\transformwebconfig\transformed\web.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\csautoparameterize\original\views\web.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\csautoparameterize\transformed\views\web.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\views\web.config
+++favicon.ico
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\favicon.ico
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\favicon.ico
+++Global.asax
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\global.asax
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\global.asax
+++Global.asax.cs
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\global.asax.cs
+++packages.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages.config
+++PublishProfiles
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\properties\publishprofiles\
+++ServiceDependencies
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\properties\servicedependencies\
+++AssemblyInfo.cs
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\properties\assemblyinfo.cs
+++Antlr3.Runtime
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++Microsoft.CSharp
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++Microsoft.Web.Infrastructure
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++Newtonsoft.Json
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.ComponentModel.DataAnnotations
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Configuration
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Core
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Data
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Data.DataSetExtensions
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Drawing
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.EnterpriseServices
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Net.Http
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Net.Http.WebRequest
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Web
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Web.Abstractions
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Web.ApplicationServices
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Web.DynamicData
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Web.Entity
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Web.Extensions
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Web.Helpers
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Web.Mvc
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Web.Optimization
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Web.Razor
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Web.Routing
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Web.Services
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Web.WebPages
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Web.WebPages.Deployment
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Web.WebPages.Razor
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++System.Xml.Linq
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++WebGrease
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:
+++csc.exe
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\csc.exe
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\csc.exe
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\csc.exe
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\csc.exe
+++csc.exe.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\csc.exe.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\csc.exe.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\csc.exe.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\csc.exe.config
+++csc.rsp
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\csc.rsp
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\csc.rsp
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\csc.rsp
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\csc.rsp
+++csi.exe
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\csi.exe
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\csi.exe
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\csi.exe
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\csi.exe
+++csi.exe.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\csi.exe.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\csi.exe.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\csi.exe.config
+++csi.rsp
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\csi.rsp
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\csi.rsp
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\csi.rsp
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\csi.rsp
+++Microsoft.Build.Tasks.CodeAnalysis.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\microsoft.build.tasks.codeanalysis.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.build.tasks.codeanalysis.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.build.tasks.codeanalysis.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\microsoft.build.tasks.codeanalysis.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\microsoft.codeanalysis.csharp.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.codeanalysis.csharp.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.codeanalysis.csharp.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\microsoft.codeanalysis.csharp.scripting.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.codeanalysis.csharp.scripting.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.codeanalysis.csharp.scripting.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\microsoft.codeanalysis.csharp.scripting.dll
+++Microsoft.CodeAnalysis.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\microsoft.codeanalysis.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.codeanalysis.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.codeanalysis.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Scripting.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\microsoft.codeanalysis.scripting.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.codeanalysis.scripting.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.codeanalysis.scripting.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\microsoft.codeanalysis.scripting.dll
+++Microsoft.CodeAnalysis.VisualBasic.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\microsoft.codeanalysis.visualbasic.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.codeanalysis.visualbasic.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.codeanalysis.visualbasic.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\microsoft.codeanalysis.visualbasic.dll
+++Microsoft.CSharp.Core.targets
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\microsoft.csharp.core.targets
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.csharp.core.targets
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.csharp.core.targets
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.DiaSymReader.Native.amd64.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\microsoft.diasymreader.native.amd64.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.diasymreader.native.amd64.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.diasymreader.native.amd64.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\microsoft.diasymreader.native.amd64.dll
+++Microsoft.DiaSymReader.Native.x86.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\microsoft.diasymreader.native.x86.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.diasymreader.native.x86.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.diasymreader.native.x86.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\microsoft.diasymreader.native.x86.dll
+++Microsoft.Managed.Core.targets
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\microsoft.managed.core.targets
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.managed.core.targets
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.VisualBasic.Core.targets
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\microsoft.visualbasic.core.targets
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.visualbasic.core.targets
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.visualbasic.core.targets
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\microsoft.visualbasic.core.targets
+++Microsoft.Win32.Primitives.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\microsoft.win32.primitives.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.win32.primitives.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\microsoft.win32.primitives.dll
+++System.AppContext.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.appcontext.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\system.appcontext.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.appcontext.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.appcontext.dll
+++System.Collections.Immutable.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.collections.immutable.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\system.collections.immutable.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.collections.immutable.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.collections.immutable.dll
+++System.Console.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.console.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.console.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.console.dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.diagnostics.diagnosticsource.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.diagnostics.diagnosticsource.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.diagnostics.diagnosticsource.dll
+++System.Diagnostics.FileVersionInfo.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.diagnostics.fileversioninfo.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.diagnostics.fileversioninfo.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.diagnostics.fileversioninfo.dll
+++System.Diagnostics.StackTrace.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.diagnostics.stacktrace.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\system.diagnostics.stacktrace.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.diagnostics.stacktrace.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.diagnostics.stacktrace.dll
+++System.Globalization.Calendars.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.globalization.calendars.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.globalization.calendars.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.globalization.calendars.dll
+++System.IO.Compression.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.io.compression.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.io.compression.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.io.compression.dll
+++System.IO.Compression.ZipFile.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.io.compression.zipfile.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.io.compression.zipfile.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.io.compression.zipfile.dll
+++System.IO.FileSystem.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.io.filesystem.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\system.io.filesystem.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.io.filesystem.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.io.filesystem.dll
+++System.IO.FileSystem.Primitives.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.io.filesystem.primitives.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\system.io.filesystem.primitives.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.io.filesystem.primitives.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.io.filesystem.primitives.dll
+++System.Net.Http.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.net.http.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.net.http.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.net.http.dll
+++System.Net.Sockets.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.net.sockets.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.net.sockets.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.net.sockets.dll
+++System.Reflection.Metadata.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.reflection.metadata.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\system.reflection.metadata.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.reflection.metadata.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.reflection.metadata.dll
+++System.Runtime.InteropServices.RuntimeInformation.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.runtime.interopservices.runtimeinformation.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.runtime.interopservices.runtimeinformation.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.runtime.interopservices.runtimeinformation.dll
+++System.Security.Cryptography.Algorithms.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.security.cryptography.algorithms.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.security.cryptography.algorithms.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.security.cryptography.algorithms.dll
+++System.Security.Cryptography.Encoding.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.security.cryptography.encoding.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.security.cryptography.encoding.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.security.cryptography.encoding.dll
+++System.Security.Cryptography.Primitives.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.security.cryptography.primitives.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.security.cryptography.primitives.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.security.cryptography.primitives.dll
+++System.Security.Cryptography.X509Certificates.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.security.cryptography.x509certificates.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.security.cryptography.x509certificates.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.security.cryptography.x509certificates.dll
+++System.Text.Encoding.CodePages.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.text.encoding.codepages.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.text.encoding.codepages.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.text.encoding.codepages.dll
+++System.Threading.Tasks.Extensions.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.threading.tasks.extensions.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.threading.tasks.extensions.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.threading.tasks.extensions.dll
+++System.ValueTuple.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.valuetuple.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.valuetuple.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.valuetuple.dll
+++System.Xml.ReaderWriter.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.xml.readerwriter.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.xml.readerwriter.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.xml.readerwriter.dll
+++System.Xml.XmlDocument.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.xml.xmldocument.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.xml.xmldocument.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.xml.xmldocument.dll
+++System.Xml.XPath.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.xml.xpath.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.xml.xpath.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.xml.xpath.dll
+++System.Xml.XPath.XDocument.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\system.xml.xpath.xdocument.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.xml.xpath.xdocument.dll
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\system.xml.xpath.xdocument.dll
+++vbc.exe
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\vbc.exe
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\vbc.exe
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\vbc.exe
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\vbc.exe
+++vbc.exe.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\vbc.exe.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\vbc.exe.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\vbc.exe.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\vbc.exe.config
+++vbc.rsp
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\vbc.rsp
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\vbc.rsp
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\vbc.rsp
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\vbc.rsp
+++VBCSCompiler.exe
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\vbcscompiler.exe
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\vbcscompiler.exe
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\vbcscompiler.exe
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\vbcscompiler.exe
+++VBCSCompiler.exe.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\bin\roslyn\vbcscompiler.exe.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\vbcscompiler.exe.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\vbcscompiler.exe.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\bin\roslyn\vbcscompiler.exe.config
+++Debug
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\debug\
+++Release
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\
+++Antlr.3.5.0.2
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\antlr.3.5.0.2\
+++bootstrap.3.4.1
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\
+++jQuery.3.4.1
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.3.4.1\
+++jQuery.Validation.1.17.0
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.validation.1.17.0\
+++Microsoft.AspNet.Mvc.5.2.7
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.mvc.5.2.7\
+++Microsoft.AspNet.Razor.3.2.7
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.razor.3.2.7\
+++Microsoft.AspNet.Web.Optimization.1.1.3
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.web.optimization.1.1.3\
+++Microsoft.AspNet.WebPages.3.2.7
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.webpages.3.2.7\
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\
+++Microsoft.jQuery.Unobtrusive.Validation.3.2.11
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.jquery.unobtrusive.validation.3.2.11\
+++Microsoft.Web.Infrastructure.1.0.0.0
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.web.infrastructure.1.0.0.0\
+++Modernizr.2.8.3
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\modernizr.2.8.3\
+++Newtonsoft.Json.12.0.2
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\
+++WebGrease.1.6.0
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\webgrease.1.6.0\
+++bootstrap.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\scripts\bootstrap.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\content\scripts\bootstrap.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\contentfiles\scripts\bootstrap.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\scripts\bootstrap.js
+++bootstrap.min.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\scripts\bootstrap.min.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\content\scripts\bootstrap.min.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\contentfiles\scripts\bootstrap.min.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\scripts\jquery-3.4.1.intellisense.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.3.4.1\tools\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\scripts\jquery-3.4.1.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.3.4.1\content\scripts\jquery-3.4.1.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\scripts\jquery-3.4.1.min.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.3.4.1\content\scripts\jquery-3.4.1.min.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\scripts\jquery-3.4.1.min.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.3.4.1\content\scripts\jquery-3.4.1.min.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\scripts\jquery-3.4.1.slim.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.3.4.1\content\scripts\jquery-3.4.1.slim.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\scripts\jquery-3.4.1.slim.min.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.3.4.1\content\scripts\jquery-3.4.1.slim.min.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\scripts\jquery-3.4.1.slim.min.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.3.4.1\content\scripts\jquery-3.4.1.slim.min.map
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\scripts\jquery.validate-vsdoc.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.validation.1.17.0\content\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\scripts\jquery.validate.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.validation.1.17.0\content\scripts\jquery.validate.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\scripts\jquery.validate.min.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.validation.1.17.0\content\scripts\jquery.validate.min.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\scripts\jquery.validate.unobtrusive.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.jquery.unobtrusive.validation.3.2.11\content\scripts\jquery.validate.unobtrusive.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\scripts\jquery.validate.unobtrusive.min.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.jquery.unobtrusive.validation.3.2.11\content\scripts\jquery.validate.unobtrusive.min.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\scripts\modernizr-2.8.3.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\modernizr.2.8.3\content\scripts\modernizr-2.8.3.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\scripts\modernizr-2.8.3.js
+++Web.Debug.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\web.debug.config
+++Web.Release.config
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\web.release.config
+++ReportOfSixthGroup - Web Deploy.pubxml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\properties\publishprofiles\reportofsixthgroup - web deploy.pubxml
+++ReportOfSixthGroup - Web Deploy.pubxml.user
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\properties\publishprofiles\reportofsixthgroup - web deploy.pubxml.user
+++ReportOfSixthGroup - Web Deploy
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\properties\servicedependencies\reportofsixthgroup - web deploy\
+++TempPE
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\debug\temppe\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\temppe\
+++.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\debug\.netframework,version=v4.7.2.assemblyattributes.cs
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\.netframework,version=v4.7.2.assemblyattributes.cs
+++DesignTimeResolveAssemblyReferencesInput.cache
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\debug\designtimeresolveassemblyreferencesinput.cache
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\designtimeresolveassemblyreferencesinput.cache
+++ReportOf_SixthGroup.csproj.AssemblyReference.cache
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\debug\reportof_sixthgroup.csproj.assemblyreference.cache
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\reportof_sixthgroup.csproj.assemblyreference.cache
+++ReportOf_SixthGroup.csproj.CoreCompileInputs.cache
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\debug\reportof_sixthgroup.csproj.corecompileinputs.cache
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\reportof_sixthgroup.csproj.corecompileinputs.cache
+++ReportOf_SixthGroup.csproj.FileListAbsolute.txt
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\debug\reportof_sixthgroup.csproj.filelistabsolute.txt
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\reportof_sixthgroup.csproj.filelistabsolute.txt
+++CSAutoParameterize
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\csautoparameterize\
+++Package
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\
+++ProfileTransformWebConfig
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\profiletransformwebconfig\
+++TransformWebConfig
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\transformwebconfig\
+++_WPPLastBuildInfo.txt
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\_wpplastbuildinfo.txt
+++CSAutoParameterize.parameters.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\csautoparameterize.parameters.xml
+++ReportOf_SixthGroup.csproj.CopyComplete
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\reportof_sixthgroup.csproj.copycomplete
+++lib
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\antlr.3.5.0.2\lib\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.mvc.5.2.7\lib\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.razor.3.2.7\lib\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.web.optimization.1.1.3\lib\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.webpages.3.2.7\lib\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\lib\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.web.infrastructure.1.0.0.0\lib\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\webgrease.1.6.0\lib\
+++.signature.p7s
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\antlr.3.5.0.2\.signature.p7s
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\.signature.p7s
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.3.4.1\.signature.p7s
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.validation.1.17.0\.signature.p7s
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.mvc.5.2.7\.signature.p7s
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.razor.3.2.7\.signature.p7s
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.web.optimization.1.1.3\.signature.p7s
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.webpages.3.2.7\.signature.p7s
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\.signature.p7s
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.jquery.unobtrusive.validation.3.2.11\.signature.p7s
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.web.infrastructure.1.0.0.0\.signature.p7s
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\modernizr.2.8.3\.signature.p7s
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\.signature.p7s
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\webgrease.1.6.0\.signature.p7s
+++Antlr.3.5.0.2.nupkg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\antlr.3.5.0.2\antlr.3.5.0.2.nupkg
+++content
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\content\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\
+++contentFiles
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\contentfiles\
+++bootstrap.3.4.1.nupkg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\bootstrap.3.4.1.nupkg
+++LICENSE.txt
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\bootstrap.3.4.1\license.txt
+++Tools
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.3.4.1\tools\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\modernizr.2.8.3\tools\
+++jQuery.3.4.1.nupkg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.3.4.1\jquery.3.4.1.nupkg
+++jQuery.Validation.1.17.0.nupkg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.validation.1.17.0\jquery.validation.1.17.0.nupkg
+++Microsoft.AspNet.Mvc.5.2.7.nupkg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.mvc.5.2.7\microsoft.aspnet.mvc.5.2.7.nupkg
+++Microsoft.AspNet.Razor.3.2.7.nupkg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.razor.3.2.7\microsoft.aspnet.razor.3.2.7.nupkg
+++Microsoft.AspNet.Web.Optimization.1.1.3.nupkg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.web.optimization.1.1.3\microsoft.aspnet.web.optimization.1.1.3.nupkg
+++Microsoft.AspNet.WebPages.3.2.7.nupkg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.webpages.3.2.7\microsoft.aspnet.webpages.3.2.7.nupkg
+++build
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\
+++tools
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\webgrease.1.6.0\tools\
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1.nupkg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1.nupkg
+++Microsoft.jQuery.Unobtrusive.Validation.3.2.11.nupkg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.jquery.unobtrusive.validation.3.2.11\microsoft.jquery.unobtrusive.validation.3.2.11.nupkg
+++Microsoft.Web.Infrastructure.1.0.0.0.nupkg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.web.infrastructure.1.0.0.0\microsoft.web.infrastructure.1.0.0.0.nupkg
+++Modernizr.2.8.3.nupkg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\modernizr.2.8.3\modernizr.2.8.3.nupkg
+++LICENSE.md
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\license.md
+++Newtonsoft.Json.12.0.2.nupkg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\newtonsoft.json.12.0.2.nupkg
+++WebGrease.1.6.0.nupkg
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\webgrease.1.6.0\webgrease.1.6.0.nupkg
+++profile.arm.json
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\properties\servicedependencies\reportofsixthgroup - web deploy\profile.arm.json
+++original
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\csautoparameterize\original\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\transformwebconfig\original\
+++transformed
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\csautoparameterize\transformed\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\profiletransformwebconfig\transformed\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\transformwebconfig\transformed\
+++PackageTmp
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\packagetmp\
+++ReportOf_SixthGroup.SourceManifest.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\package\reportof_sixthgroup.sourcemanifest.xml
+++assist
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\obj\release\transformwebconfig\assist\
+++common.ps1
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.3.4.1\tools\common.ps1
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\modernizr.2.8.3\tools\common.ps1
+++install.ps1
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.3.4.1\tools\install.ps1
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\modernizr.2.8.3\tools\install.ps1
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\net45\install.ps1
+++uninstall.ps1
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.3.4.1\tools\uninstall.ps1
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\modernizr.2.8.3\tools\uninstall.ps1
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\net45\uninstall.ps1
+++Web.config.install.xdt
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.mvc.5.2.7\content\web.config.install.xdt
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.webpages.3.2.7\content\web.config.install.xdt
+++Web.config.uninstall.xdt
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.mvc.5.2.7\content\web.config.uninstall.xdt
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.webpages.3.2.7\content\web.config.uninstall.xdt
+++net45
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.mvc.5.2.7\lib\net45\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.razor.3.2.7\lib\net45\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.webpages.3.2.7\lib\net45\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\net45\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net45\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\lib\net45\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\net45\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\net45\
+++net40
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.web.optimization.1.1.3\lib\net40\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.web.infrastructure.1.0.0.0\lib\net40\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\net40\
+++net46
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\net46\
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net46\
+++Roslyn45
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\
+++RoslynLatest
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\
+++net20
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\net20\
+++net35
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\net35\
+++netstandard1.0
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\netstandard1.0\
+++netstandard1.3
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\netstandard1.3\
+++netstandard2.0
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\netstandard2.0\
+++portable-net40+sl5+win8+wp8+wpa81
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\portable-net40+sl5+win8+wp8+wpa81\
+++portable-net45+win8+wp8+wpa81
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\newtonsoft.json.12.0.2\lib\portable-net45+win8+wp8+wpa81\
+++WG.EXE
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\webgrease.1.6.0\tools\wg.exe
+++jquery-3.4.1-vsdoc.js
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\jquery.3.4.1\content\scripts\jquery-3.4.1-vsdoc.js
+++system.web.optimization.xml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.aspnet.web.optimization.1.1.3\lib\net40\system.web.optimization.xml
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\net45\microsoft.codedom.providers.dotnetcompilerplatform.extensions.props
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\net46\microsoft.codedom.providers.dotnetcompilerplatform.extensions.props
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\net45\microsoft.codedom.providers.dotnetcompilerplatform.props
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\net46\microsoft.codedom.providers.dotnetcompilerplatform.props
+++app.config.install.xdt
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net45\app.config.install.xdt
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net46\app.config.install.xdt
+++app.config.uninstall.xdt
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net45\app.config.uninstall.xdt
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net46\app.config.uninstall.xdt
+++web.config.install.xdt
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net45\web.config.install.xdt
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net46\web.config.install.xdt
+++web.config.uninstall.xdt
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net45\web.config.uninstall.xdt
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net46\web.config.uninstall.xdt
+++NewFolder1
+++Lab2
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\lab2\
+++Lab2Controller.cs
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\controllers\lab2controller.cs
+++List.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\lab2\list.cshtml
+++Identitifivator.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\lab2\identitifivator.cshtml
+++Tabs.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\lab2\tabs.cshtml
+++Flowing.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\lab2\flowing.cshtml
+++Selectors.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\lab2\selectors.cshtml
+++OtherSelector.cshtml
+++Grouping.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\lab2\grouping.cshtml
+++OtherSelectors.cshtml
+i:{ca51a29e-ab17-463a-a456-394fa074e843}:d:\kpi docs\web\project\kpi_web\reportof_sixthgroup\views\lab2\otherselectors.cshtml
