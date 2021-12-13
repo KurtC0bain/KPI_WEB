@@ -10,7 +10,3 @@ D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\obj\Debug\
 D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\obj\Debug\BLL.pdb
 D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Debug\EntityFramework.dll
 D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Debug\EntityFramework.xml
-D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml

@@ -16,8 +16,6 @@ namespace AudioLib_lab7
         {
             Bind<IAudioService>().To<AudioService>();
             Bind<IAudioRepository>().To<AudioRepository>();
-            Bind<IUsersService>().To<UsersService>();
-            Bind<IUserRepository>().To<UserRepository>();
         }
     }
 }
