@@ -220,7 +220,6 @@
     <Content Include="Views\Lab7\Theme.cshtml" />
     <Content Include="Views\Lab7\Objects.cshtml" />
     <Content Include="Views\Lab7\InfoModel.cshtml" />
-    <Content Include="Views\Lab7\DatoModel.cshtml" />
     <Content Include="Views\Lab7\Realization.cshtml" />
     <Content Include="Views\Lab7\DB.cshtml" />
     <Content Include="Views\Lab7\End.cshtml" />

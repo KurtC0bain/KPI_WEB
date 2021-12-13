@@ -12,10 +12,6 @@ namespace ReportOf_SixthGroup.Controllers
         {
             return View();
         }
-        public ActionResult DatoModel()
-        {
-            return View();
-        }
         public ActionResult DB()
         {
             return View();
