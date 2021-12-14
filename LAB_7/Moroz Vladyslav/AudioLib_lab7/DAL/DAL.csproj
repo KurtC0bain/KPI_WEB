@@ -57,9 +57,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Migrations\202112131558030_Update1.cs" />
-    <Compile Include="Migrations\202112131558030_Update1.designer.cs">
-      <DependentUpon>202112131558030_Update1.cs</DependentUpon>
+    <Compile Include="Migrations\202112141324436_Update2.cs" />
+    <Compile Include="Migrations\202112141324436_Update2.designer.cs">
+      <DependentUpon>202112141324436_Update2.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Audio.cs" />
@@ -85,8 +85,8 @@
     <Content Include="Scripts\nugetexample.js" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202112131558030_Update1.resx">
-      <DependentUpon>202112131558030_Update1.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202112141324436_Update2.resx">
+      <DependentUpon>202112141324436_Update2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
