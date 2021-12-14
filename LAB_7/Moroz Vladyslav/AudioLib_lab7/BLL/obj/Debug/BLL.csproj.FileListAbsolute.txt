@@ -10,3 +10,15 @@ D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\obj\Debug\
 D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\obj\Debug\BLL.pdb
 D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Debug\EntityFramework.dll
 D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Debug\EntityFramework.xml
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Debug\BLL.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Debug\BLL.pdb
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Debug\DAL.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Debug\EntityFramework.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Debug\DAL.pdb
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Debug\DAL.dll.config
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Debug\EntityFramework.xml
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\obj\Debug\BLL.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\obj\Debug\BLL.pdb
