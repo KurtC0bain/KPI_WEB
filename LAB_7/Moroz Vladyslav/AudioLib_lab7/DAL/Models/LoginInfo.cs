@@ -10,12 +10,12 @@ namespace DAL.Models
     public class LoginInfo
     {
         [Required]
-        [MinLength(6)]
+        [MinLength(4)]
         [StringLength(25)]
         public string Username { get; set; }   
 
         [Required]        
-        [MinLength(6)]
+        [MinLength(4)]
         [StringLength(25)]
         public string Password { get; set; }
     }

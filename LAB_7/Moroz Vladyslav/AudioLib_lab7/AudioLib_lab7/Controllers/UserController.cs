@@ -10,6 +10,8 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.Owin.Security;
 
+
+
 namespace AudioLib_lab7.Controllers
 {
     public class UserController : Controller
@@ -33,6 +35,7 @@ namespace AudioLib_lab7.Controllers
         }
 
         // GET: User/Create
+        [Authorize(Roles = "Admin")]
         public  ActionResult Create()
         {
             return View();
@@ -125,6 +128,7 @@ namespace AudioLib_lab7.Controllers
 
             return Redirect("Index");
         }
+        
 
         [HttpGet]
         public ActionResult SignOut()

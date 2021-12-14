@@ -111,3 +111,9 @@ D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\AudioLib_lab7\
 D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\AudioLib_lab7\bin\Microsoft.Owin.Security.xml
 D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\AudioLib_lab7\bin\Microsoft.Owin.Security.Cookies.xml
 D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\AudioLib_lab7\bin\Microsoft.Owin.Security.OAuth.xml
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\AudioLib_lab7\bin\Microsoft.Exchange.WebServices.Auth.dll
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\AudioLib_lab7\bin\Microsoft.Exchange.WebServices.dll
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\AudioLib_lab7\bin\Microsoft.Exchange.WebServices.pdb
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\AudioLib_lab7\bin\Microsoft.Exchange.WebServices.xml
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\AudioLib_lab7\bin\Microsoft.Exchange.WebServices.Auth.pdb
+D:\2_course_1_sem\WEB\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\AudioLib_lab7\bin\Microsoft.Exchange.WebServices.Auth.xml

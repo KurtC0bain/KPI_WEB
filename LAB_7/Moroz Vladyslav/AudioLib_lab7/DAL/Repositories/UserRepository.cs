@@ -17,6 +17,7 @@ namespace DAL.Repositories
         public UserRepository(AudioContext audioContext)
         {
             _audioContext = audioContext;
+            
         }
 
         public async Task<User> CreateUserAsync(User user)
@@ -36,7 +37,7 @@ namespace DAL.Repositories
         }
 
         public async Task CreateUserRolesAsync()
-        { 
+        {
             var roleStore = new RoleStore<IdentityRole>();
             var roleManager = new RoleManager<IdentityRole>(roleStore);
 
