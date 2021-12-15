@@ -1,24 +1,252 @@
 ﻿body {
-    padding-top: 50px;
-    padding-bottom: 20px;
+    background-color: #232323;
+    font-weight: 300;
+    font-size: 2rem;
+    color: white;
+    scroll-behavior: smooth;
+}
+.grey {
+    background-color: #4a4a4a;
+}
+.white {
+    color: white;
 }
 
-/* Set padding to keep content from hitting the edges */
-.body-content {
-    padding-left: 15px;
-    padding-right: 15px;
+.gain-center {
+    transition: 1s; /* Время эффекта */
+    text-align: center;
 }
 
-/* Override the default bootstrap behavior where horizontal description lists 
-   will truncate terms that are too long to fit in the left column 
-*/
-.dl-horizontal dt {
-    white-space: normal;
+    .gain-center:hover {
+        transform: scale(1.2); /* Увеличиваем масштаб */
+    }
+
+.contact-info-text {
+    margin-left: 8px;
+    float: left;
 }
 
-/* Set width on the form input elements since they're 100% wide by default */
-input,
-select,
-textarea {
-    max-width: 280px;
+footer h3 {
+    color: #f26651;
+    font-size: 20pt;
+    font-weight: bold;
 }
+
+
+.footer-info {
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.contacts {
+    padding: 20px 35px;
+    width: 100vw;
+    margin-left: 3.125px;
+    border: 1px solid #8a8a8a;
+    border-radius: 15px;
+    text-transform: none;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.info {
+    padding: 20px 35px;
+    width: 41vw;
+    margin-right: 3.125px;
+    border: 1px solid #8a8a8a;
+    border-radius: 15px;
+    font-weight: 600;
+}
+
+.contacts a {
+    color: #fff !important;
+    text-decoration: none !important;
+    font-weight: 500;
+}
+
+.contacts img {
+    float: left;
+}
+
+
+#phones {
+    margin-top: -5px;
+}
+
+address {
+    color: #fff !important;
+    text-decoration: none !important;
+    font-style: normal;
+    font-weight: 500;
+}
+
+
+
+.under-construction {
+    height: 100%;
+    padding-top: 240px;
+    padding-bottom: 240px;
+    font-size: 32pt;
+    text-align: center;
+    color: #fff;
+}
+
+
+.icon {
+    width: 34px;
+}
+
+#email {
+    margin-top: 17px;
+    transform: translateY(-50%);
+}
+
+.main-info p {
+    margin-left: 90px;
+    margin-right: 90px;
+    font-size: 18pt;
+    color: white;
+    font-weight: 600;
+}
+
+
+
+
+/* Slideshow container */
+.slideshow-container {
+    max-width: 90%;
+    position: relative;
+    margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+    display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+
+/* Caption text */
+.text {
+    color: #f2f2f2;
+    font-size: 15px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+/* Fading animation */
+.fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 9s;
+    animation-name: fade;
+    animation-duration: 9s;
+}
+
+@-webkit-keyframes fade {
+    from {
+        opacity: .10
+    }
+
+    to {
+        opacity: 0
+    }
+}
+
+@keyframes fade {
+    from {
+        opacity: .10
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+
+
+
+.wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  font-size: 5vw;
+  font-weight: 100;
+}
+
+
+a {
+    color: #f2f2f2;
+    font: 14pt Snell FreeMono, monospace;
+    text-decoration: none;
+    span{
+    font-weight: 100;
+    transition: all .5s;
+    border-bottom: 1px solid;
+  }
+  span:nth-child(2){
+    transition-delay: .1s;
+  }
+  span:nth-child(3){
+    transition-delay: .2s;
+  }
+  span:nth-child(4){
+    transition-delay: .3s;
+  }
+  &:hover{
+    span{
+      font-weight: 700;
+    }
+    span:nth-child(4){
+      transition-delay: .3s;
+    }
+    span:nth-child(3){
+      transition-delay: .2s;
+    }
+    span:nth-child(2){
+      transition-delay: .1s;
+    }
+    span:nth-child(1){
+      transition-delay: 0s;
+    }
+  }
+  
+  
+  &.hover-shadow{
+    &:hover{
+      $color: #ddd;
+    text-shadow: 1px 1px 0px $color, 2px 2px 0px $color, 3px 3px 0px $color;
+    }
+  }
+  &.hover-color{
+    &:hover{
+      $color: #ddd;
+    //color: darkmagenta;
+    border-color: darkmagenta;
+    }
+  }
+}
+

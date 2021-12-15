@@ -187,13 +187,26 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\icons\location.svg" />
+    <Content Include="Content\icons\logo.svg" />
+    <Content Include="Content\icons\mail.svg" />
+    <Content Include="Content\icons\phone.svg" />
+    <Content Include="Content\images\elvis.jpg" />
+    <Content Include="Content\images\strykalo.jpg" />
+    <Content Include="Content\images\tsoy.jpg" />
+    <Content Include="Content\owl.carousel.min.css" />
+    <Content Include="Content\owl.theme.default.css" />
+    <Content Include="Content\unite-gallery.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Content\stule.scss" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
+    <Content Include="Scripts\jquery-1.10.2.min.js" />
+    <Content Include="Scripts\jquery-11.0.min.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
     <Content Include="Scripts\jquery-3.4.1.slim.js" />
@@ -204,6 +217,10 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Scripts\owl.carousel.min.js" />
+    <Content Include="Scripts\script.js" />
+    <Content Include="Scripts\ug-theme-slider.js" />
+    <Content Include="Scripts\unitegallery.min.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

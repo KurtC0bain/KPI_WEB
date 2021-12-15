@@ -1,13 +1,16 @@
 ﻿@model IEnumerable<DAL.Models.Audio>
 
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Temopi music";
 }
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link type="text/css" rel="stylesheet" href="../../Content/Site.css" />
+</head>
 
-<h2>Index</h2>
 
-<p>
-    @Html.ActionLink("Create New", "Create")
+<p class="white">
+    @Html.ActionLink("Створити новий запис", "Create")
 </p>
 <table class="table">
     <tr>
