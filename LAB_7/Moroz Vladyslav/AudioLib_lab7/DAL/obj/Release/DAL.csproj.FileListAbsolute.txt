@@ -1,0 +1,17 @@
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\bin\Release\DAL.dll.config
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\bin\Release\DAL.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\bin\Release\DAL.pdb
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\bin\Release\EntityFramework.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\bin\Release\EntityFramework.SqlServer.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\bin\Release\Microsoft.AspNet.Identity.Core.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\bin\Release\EntityFramework.xml
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\bin\Release\EntityFramework.SqlServer.xml
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\bin\Release\Microsoft.AspNet.Identity.Core.xml
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\obj\Release\DAL.Migrations.one.resources
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\obj\Release\DAL.csproj.GenerateResource.cache
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\obj\Release\DAL.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\DAL\obj\Release\DAL.pdb

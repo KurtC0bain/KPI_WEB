@@ -12,11 +12,10 @@ namespace DAL.Models
         [Required]
         [MinLength(4)]
         [StringLength(25)]
-        public string Username { get; set; }   
-
-        [Required]        
+        public string Username { get; set; } = "TestUserName";
+        [Required]
         [MinLength(4)]
         [StringLength(25)]
-        public string Password { get; set; }
+        public string Password { get; set; } = "TestPassword";
     }
 }

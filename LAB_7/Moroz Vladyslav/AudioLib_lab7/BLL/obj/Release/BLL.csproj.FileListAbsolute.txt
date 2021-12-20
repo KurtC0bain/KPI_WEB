@@ -1,0 +1,16 @@
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Release\BLL.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Release\BLL.pdb
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Release\DAL.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Release\Microsoft.AspNet.Identity.Core.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Release\EntityFramework.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Release\DAL.pdb
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Release\DAL.dll.config
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Release\Microsoft.AspNet.Identity.Core.xml
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\bin\Release\EntityFramework.xml
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\obj\Release\BLL.csproj.AssemblyReference.cache
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\obj\Release\BLL.csproj.CopyComplete
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\obj\Release\BLL.dll
+D:\KPI DOCS\WEB\project\KPI_WEB\LAB_7\Moroz Vladyslav\AudioLib_lab7\BLL\obj\Release\BLL.pdb
