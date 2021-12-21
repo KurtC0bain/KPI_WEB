@@ -1,0 +1,117 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.header {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    background-color: #EEEEEE;
+    justify-content: space-between;
+}
+
+.it {
+    width: 50px;
+    height: 50px;
+}
+.header .header-line_text {
+    color: rgb(108, 108, 201);
+    font-weight: 900;
+    font-size: 18px;
+}
+.header .header-line_text1 {
+    color: rgb(13, 13, 128);
+}
+.header-buttons {
+    display: flex;
+    flex-direction: row;
+    background-color: #EEEEEE;
+    justify-content: space-between;
+}
+
+.header-buttons .header_button {
+    width: 150px;
+    height: 50px;
+    background-color: #3da9d9;
+    color: white;
+    font-weight: 400px;
+    cursor: pointer;
+}
+.menu {
+    line-height: 1.5;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 560px;
+    background-color: #EEEEEE;
+    color: white;
+
+}
+.newform {
+    width: 450px;
+    height: 510px;
+    background-color: #FFA200;
+    color: black;
+    padding: 20px;
+    padding-top: none;
+    
+}
+.navigation {
+    width: 450px;
+    height: 510px;
+    background-color: #319ED3;
+    padding: 20px;
+    padding-left: none;
+    padding-top: none;
+    line-height: 2;
+}
+.search {
+    width: 450px;
+    height: 510px;
+    background-color: #CD3536;
+    color: rgb(226, 145, 145);
+    padding: 20px;
+    padding-top: none;
+}
+.menu .navigation .nav-menu{
+    text-decoration: underline;
+    
+}
+
+.ending {
+    display: flex;
+    flex-direction: row;
+    height: 180px;
+}
+
+.web {
+    max-height: 150px;
+}
+
+.footer_buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 60px;   
+}
+.footer_buttons .footer_button {
+    width: 160px;
+    color: rgb(13, 13, 128);
+    font-weight: bold;
+    cursor: pointer;
+    height: 40px;
+}
+h2 {
+    text-align: center;
+}
+#search {
+    margin-left: 30px;
+}
+#bold {
+    font-weight: bold;
+}
+#underlined {
+    text-decoration: underline;
+}

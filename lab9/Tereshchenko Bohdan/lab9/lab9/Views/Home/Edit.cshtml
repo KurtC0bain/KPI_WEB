@@ -1,0 +1,33 @@
+﻿@model lab9.Models.Task
+
+@{
+    ViewBag.Title = "Зміна запису";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Добавлення нової фотографії</h2>
+
+@using (Html.BeginForm())
+{
+    <fieldset>
+        <legend>Запис</legend>
+        @Html.Hidden("Id")
+
+        <p>
+            Інформація запису <br />
+            @Html.Editor("Name")
+        </p>
+
+        <p>
+            Дата <br />
+            @Html.Editor("Date")
+        </p>
+
+        <p>
+            <input type="submit" value="Змінити запис" />
+        </p>
+    </fieldset>
+}
+<div>
+    @Html.ActionLink("До списку завдань", "Index")
+</div>

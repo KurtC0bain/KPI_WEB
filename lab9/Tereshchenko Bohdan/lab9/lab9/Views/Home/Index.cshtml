@@ -1,0 +1,19 @@
+﻿@model lab9.Models.Task
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<p>
+    @Html.ActionLink("Створити нову подію", "Create")
+</p>
+
+
+
+@using (Ajax.BeginForm("TaskSearch", new AjaxOptions { UpdateTargetId = "results" }))
+{
+    <input type="text" name="name" />
+    <input type="submit" name="Пошук" />
+}
+<div id="results"></div>
+

@@ -1,0 +1,16 @@
+﻿
+@model IEnumerable<lab9.Models.Task>
+
+
+<ul>
+    @foreach (var item in Model)
+    {
+    <li>
+        @item.Name      @Html.ActionLink("Edit", "Edit", new { id = item.Id }) | 
+        @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+    </li>
+    }
+
+</ul>
+
+
