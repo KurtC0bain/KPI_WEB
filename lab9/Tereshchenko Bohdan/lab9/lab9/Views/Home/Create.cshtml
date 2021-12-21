@@ -1,0 +1,32 @@
+﻿@model lab9.Models.Task
+
+@{
+    ViewBag.Title = "Добавлення події";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Добавлення нової фотографії</h2>
+
+@using (Html.BeginForm())
+{
+    <fieldset>
+        <legend>Подія</legend>
+
+        <p>
+            Назва події <br />
+            @Html.Editor("Name")
+        </p>
+
+        <p>
+            Дата <br />
+            @Html.Editor("Date")
+        </p>
+
+        <p>
+            <input type="submit" value="Добавити подію" />
+        </p>
+    </fieldset>
+}
+<div>
+    @Html.ActionLink("До списку подій", "Index")
+</div>
