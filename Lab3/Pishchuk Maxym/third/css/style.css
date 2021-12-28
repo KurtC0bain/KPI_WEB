@@ -1,0 +1,239 @@
+*{
+    background-color:white;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+header{
+    background-color: #292929;
+}
+
+.header{
+    background-color: #292929;   
+    margin-bottom: 30px; 
+}
+
+.title{
+    text-align: center;
+    margin-bottom: 50px;
+    max-height: 800px;
+    background-color: #292929}
+
+.title .title_text{
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: #292929
+}
+
+.title .undertitle_text{
+    font-size: 23px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #FF9638;
+    font-weight: bolder;
+    background-color: #292929
+}
+
+.desc_video{
+    display: flex;
+    justify-content: space-between;
+    max-height: 800px;
+    background-color: #292929}
+
+.desc_video .header_text{
+    margin-right: 100px;
+    background-color: #292929}
+
+.header_text .header_text_upper{
+    font-size: 20px;
+    color:#ABABAB;
+    font-family: serif;
+    background-color: #292929
+}
+.header_text .header_text_list{
+    background-color: #292929;
+    font-size: 20px;
+    color:white;
+    font-family: serif;
+    font-weight: 900;
+    
+}
+
+.header_video{
+    background-color: #292929;
+}
+
+.video_img{
+    width: 700px;
+    height: 400px;
+    background-color: #292929;
+    margin-bottom: 30px;
+}
+li::marker{
+    color:#3298F1;
+}
+
+li{
+    background-color: #292929;
+}
+
+figcaption{
+    color: black;
+    background-color:#EDF4FB;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    background-color: yellow;
+    width: 300px;
+    height: 50px;
+    border-radius: 5%;
+
+    padding: 0 auto;
+    margin-bottom: 30px;
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+}
+
+.main_title{
+    text-align: center;
+    background-color:white;
+    padding-top: 50px;
+}
+
+.main_title_text{
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: #369AF2;
+    background-color:white;
+}
+
+.main_undertitle_text{
+    font-size: 23px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #25292D;
+    font-weight: 900;
+    background-color:white;
+
+}
+
+.languages{
+    display: flex;
+    justify-content:space-between;
+    background-color:white;
+    padding-top: 10px;
+}
+
+.main{
+    min-height: 330px;
+    background-color:white;
+}
+
+
+.graduate{
+    background-color:#EDF4FB;
+    padding:20px;
+    padding-top: 0;
+    min-height: 550px;
+}
+.graduate_title{
+    text-align: center;
+    background-color:#EDF4FB;
+    padding-top: 50px;
+    padding-left: 550px;
+    margin-bottom: 10px;
+    position: relative;
+    top: 50px;
+}
+
+.graduate_title_text{
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: #25292D;
+    background-color:#EDF4FB;
+
+}
+
+.graduate_undertitle_text{
+    font-size: 23px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    color: #369AF2;
+    background-color:#EDF4FB;
+
+}
+
+.video_and_company{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#EDF4FB;
+    border-left: #53A7F2 solid;
+}
+
+.video{
+    background-color:#EDF4FB;;
+}
+
+.video_bottom{
+    width: 550px;
+    margin: 20px;
+}
+
+.company{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 300px;
+    background-color:#EDF4FB;
+    align-items: center;
+}
+
+footer{
+    display: flex;
+    background-color:black;
+    min-height: 50px;
+}
+
+.social_array{
+    position: relative;
+    display: flex;
+    right: 1px;
+}
+
+.social{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:black;
+    margin-left: 10px;
+    height: 50px;
+    width: 50px;
+}
+
+.soical_img{
+    width: 32px;
+    height: 27px;
+}
+
+.footer_big{
+    display: flex;
+    text-align: center;
+    align-items:center;
+    background-color: black;
+    min-width: 1165px
+}

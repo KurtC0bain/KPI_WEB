@@ -34,7 +34,6 @@ namespace AJAX_Photogallery.Controllers
 
 
         // GET: Gallery/AddOrEdit(Insert)
-        // GET: Gallery/AddOrEdit/5(Update)
         [NoDirectAccess]
         public async Task<IActionResult> AddOrEdit(int id = 0)
         {
@@ -57,7 +56,6 @@ namespace AJAX_Photogallery.Controllers
         {
             if (ModelState.IsValid)
             {
-                //Insert
                 if (id == 0)
                 {
                     _context.Add(photoModel);

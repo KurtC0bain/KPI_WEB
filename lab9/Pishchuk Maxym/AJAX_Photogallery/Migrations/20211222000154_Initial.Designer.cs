@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AJAX_Photogallery.Migrations
 {
     [DbContext(typeof(GalleryContext))]
-    [Migration("20211221195942_Initial")]
+    [Migration("20211222000154_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
